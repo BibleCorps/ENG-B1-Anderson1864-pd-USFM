@@ -1,6 +1,9 @@
 # ENG-B1-Anderson1864-pd-USFM
 Henry T. Anderson's 1864 "Civil War" New Testament
 
+# Source text
+* https://archive.org/details/thenewtestament00andeuoft
+
 # Status
 This is a work in progress. The text requires proof checking. 
 
