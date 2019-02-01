@@ -2,7 +2,7 @@
 Henry T. Anderson's 1864 "Civil War" New Testament
 
 # Translator
-The translator was **Henry Tompkins Anderson** (1812-1872). See [Henry Tompkins Anderson](http://www.therestorationmovement.com/_states/dc/anderson.htm).
+The translator was **[Henry Tompkins Anderson](http://www.therestorationmovement.com/_states/dc/anderson.htm)** (1812-1872).
 * Some attributions refer to the translator as **Harry Tompkins Anderson**.
 * When the Greek text of **Codex Sinaiaticus** was first rendered into English, Anderson's NT was used for the wording.
 
