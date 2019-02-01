@@ -23,6 +23,10 @@ The translator was **[Henry Tompkins Anderson](http://www.therestorationmovement
 ### Kindle edition
 * See [THE NEW TESTAMENT](https://www.amazon.co.uk/NEW-TESTAMENT-T-ANDERSON-H-ebook/dp/B07CLJS8JQ/).
 
+### SWORD module
+* [CrossWire Bible Society](http://crosswire.org/) distributes a SWORD module for the Anderson NT.
+* This needs to be replaced by one made from a more accurate digital text.
+
 # Status
 * This is a work in progress. The text requires thorough proof checking. 
 
