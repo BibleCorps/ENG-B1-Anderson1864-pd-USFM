@@ -22,6 +22,9 @@ See [THE NEW TESTAMENT](https://www.amazon.co.uk/NEW-TESTAMENT-T-ANDERSON-H-eboo
 # Status
 This is a work in progress. The text requires thorough proof checking. 
 
+## Book titles
+The book titles in the printed work were in upper case.
+
 ## Paragraphs
 * The **Anderson NT** is a paragraphed work.
 * The USFM files need to have most of the `\p` tags removed, leaving only those at the start of each paragraph.
