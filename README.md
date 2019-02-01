@@ -22,6 +22,9 @@ See [THE NEW TESTAMENT](https://www.amazon.co.uk/NEW-TESTAMENT-T-ANDERSON-H-eboo
 # Status
 This is a work in progress. The text requires thorough proof checking. 
 
+## Dedication and Preface
+The printed work included a **Dedication and Preface** after the original copyright page.
+
 ## Book titles
 The book titles in the printed work were in upper case.
 
