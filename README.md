@@ -17,16 +17,16 @@ The translator was **[Henry Tompkins Anderson](http://www.therestorationmovement
 * DavidHaslam purchased this item on 15 Aug 2009.
 
 ### Kindle edition
-See [THE NEW TESTAMENT](https://www.amazon.co.uk/NEW-TESTAMENT-T-ANDERSON-H-ebook/dp/B07CLJS8JQ/).
+* See [THE NEW TESTAMENT](https://www.amazon.co.uk/NEW-TESTAMENT-T-ANDERSON-H-ebook/dp/B07CLJS8JQ/).
 
 # Status
-This is a work in progress. The text requires thorough proof checking. 
+* This is a work in progress. The text requires thorough proof checking. 
 
 ## Dedication and Preface
-The printed work included a **Dedication and Preface** after the original copyright page.
+* The printed work included a **Dedication and Preface** after the original copyright page.
 
 ## Book titles
-The book titles in the printed work were in upper case.
+* The book titles in the printed work were in upper case.
 
 ## Paragraphs
 * The **Anderson NT** is a paragraphed work.
