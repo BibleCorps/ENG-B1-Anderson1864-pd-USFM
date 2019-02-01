@@ -10,6 +10,10 @@ The translator was **[Henry Tompkins Anderson](http://www.therestorationmovement
 ## The Internet Archive
 * https://archive.org/details/thenewtestament00andeuoft
 
+## Digital Christian Library
+* A scanned facsimile of the 1866 edition was downloaded from DCL on 2009-10-21. 
+* The PDF file does not have a selectable text layer.
+
 ## Modern reprints
 ### University of Michigan (Michigan Historical Reprint Series)
 * A facsimile [reprint](https://www.amazon.co.uk/Testament-original-Greek-H-T-Anderson/dp/1418188247/) paper copy of Anderson's 1864 text "stereotyped and printed for the author" in 1866 by John P Morton & Co,, Louisville, KY.
