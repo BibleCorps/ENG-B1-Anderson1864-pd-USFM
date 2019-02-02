@@ -12,7 +12,9 @@ The translator was **[Henry Tompkins Anderson](http://www.therestorationmovement
 
 ## Digital Christian Library
 * A scanned facsimile of the 1866 edition was downloaded from DCL on 2009-10-21. 
+* The DCL seems to no longer be online.
 * The PDF file does not have a selectable text layer.
+* Errors in the SFM files often coincide with the locations of word-wrap hyphens in the PDF.
 
 ## Modern reprints
 ### University of Michigan (Michigan Historical Reprint Series)
