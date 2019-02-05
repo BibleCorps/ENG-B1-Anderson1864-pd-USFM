@@ -14,7 +14,7 @@ The translator was **[Henry Tompkins Anderson](http://www.therestorationmovement
 * A scanned facsimile of the 1866 edition was downloaded from DCL on 2009-10-21. 
 * The DCL seems to no longer be online.
 * The PDF file does not have a selectable text layer.
-* Errors in the SFM files often coincide with the locations of word-wrap hyphens in the PDF.
+* Errors (now fixed) in the SFM files often coincided with the locations of word-wrap hyphens in the PDF.
 
 ## Modern reprints
 ### University of Michigan (Michigan Historical Reprint Series)
@@ -27,20 +27,25 @@ The translator was **[Henry Tompkins Anderson](http://www.therestorationmovement
 
 ### SWORD module
 * [CrossWire Bible Society](http://crosswire.org/) distributes a SWORD module for the Anderson NT.
-* This needs to be replaced by one made from a more accurate digital text.
+* This needs to be replaced by one made from this more accurate digital text.
 
 # Status
-* This is a work in progress. The text requires thorough proof checking. 
+* Corrections are now substantially completed, though the complete absence of errors is not guaranteed. 
 
 ## Dedication and Preface
 * The printed work included a **Dedication and Preface** after the original copyright page.
 
 ## Book titles
 * The book titles in the printed work were in upper case.
+* The SFM files have these in lower case.
 
 ## Paragraphs
 * The **Anderson NT** is a paragraphed work.
-* The USFM files need to have most of the `\p` tags removed, leaving only those at the start of each paragraph.
 
 ## Italics
-* Some words in the printed edition are style in italics. These still need to be marked using `\add ...\add*`.
+* Some words in the printed edition were styled in italics. These are now marked using `\add ...\add*`.
+
+## Remarks
+* Some missing verses have been noted by a remark line at that point in the SFM file.
+* In all but one case, the text is simply in the previous verse.
+* Acts 8:37 was missing from the 1866 printing, without any explanatory footnote.
