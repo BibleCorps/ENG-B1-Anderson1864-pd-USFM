@@ -78,7 +78,7 @@ PEDAGOGUE, (Gal. 3:24) was a servant that led the children of his master to scho
 * Some words in the printed edition were styled in italics.
 * These are now marked using `\add ...\add*`.
 
-### Remarks
+### Missing verses
 * Missing verses have been recorded by a `\rem ` line in the SFM header.
 * **Acts 8:37** was missing from the 1866 printing, without any explanatory footnote.
 * Other than that, the text is simply in the previous verse, that being the last one of the chapter.
