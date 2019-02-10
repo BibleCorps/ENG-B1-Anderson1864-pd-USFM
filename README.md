@@ -32,17 +32,14 @@ The translator was **[Henry Tompkins Anderson](http://www.therestorationmovement
 * The glossary words have not been marked where they occur in the SFM text.
 
 #### OSIS
-The OSIS XML file was made by the following steps.
+The OSIS XML file was made by the following two steps.
 * Convert the SFM files to OSIS using [adyeths/u2o](https://github.com/adyeths/u2o) Python script.
-* Open the OSIS file in **Notepad++**.
-* Use the **XMLTools** plugin to _linearize_ and then _pretty print_ the XML.
-* _Save the OSIS file_.
-* Rearrange the OSIS file such that all the verse **sID** & **eID** milestones are _tidily_ aligned.
-* Systematically move verse **eID** milestones to after the start of the next paragraph.
-* Move 3 more verse **eID** milestones in **Romans** to after the respective titles in chapter 1.
-* _Save the OSIS file again_.
-
-The post-processing steps are required to prevent _orphaned_ verse tags when the SWORD module is displayed in **Xiphos** (e.g.). Though two of the steps were implemented by means of bespoke **TextPipe** filters, they are simple enough to be done by other means. They are not yet incorporated into CrossWire module tools.
+* Systematically move verse **eID** milestones to just before the next verse **sID** milestone (in the same chapter).
+##### Notes:
+- The procedure was _simplified_ on 2019-02-09.
+- The post-processing step was required to prevent _orphaned_ verse tags when the SWORD module is displayed in **Xiphos** (e.g.).
+- Though this was implemented by means of a bespoke **TextPipe** filter, it is simple enough to be done by other means.
+- It is not yet incorporated into CrossWire module tools, though see issue [#82](https://github.com/adyeths/u2o/issues/82) for u2o.
 
 # Status
 * Corrections were made by detailed comparison with the PDF file from the DCL.
@@ -53,6 +50,19 @@ The post-processing steps are required to prevent _orphaned_ verse tags when the
 
 ## Glossary
 * There is a very short **word glossary** after the end of Revelation.
+```
+DENARIUS.―The earlier = 8½ d. , 17 cents: the later = 7½ d., 15 cents. 
+
+DRACHMA = the denarius, or 15 cents. 
+DIDRACHMA = 30 cents. 
+STATER = 60 cents. 
+
+CHŒNIX = about a quart. 
+YOD, is the name of the smallest letter of the Hebrew alphabet. 
+PEDAGOGUE, (Gal. 3:24) was a servant that led the children of his master to school. The literal meaning of the word is, “a leader of children.” The pedagogue did not teach, but conducted his master’s children to the schoolmaster. 
+```
+* SWORD currently includes this as part of **Rev.22.21** - before the end main title.
+* _An improvement is needed for how to encode this better_.
 
 ## Book titles
 * The book titles in the printed work were in upper case.
@@ -65,12 +75,13 @@ The post-processing steps are required to prevent _orphaned_ verse tags when the
 * The **Anderson NT** is a paragraphed work.
 
 ### Italics
-* Some words in the printed edition were styled in italics. These are now marked using `\add ...\add*`.
+* Some words in the printed edition were styled in italics.
+* These are now marked using `\add ...\add*`.
 
 ### Remarks
-* Some missing verses have been noted by a remark line at that point in the SFM file.
-* In all but one case, the text is simply in the previous verse.
+* Missing verses have been recorded by a `\rem ` line in the SFM header.
 * **Acts 8:37** was missing from the 1866 printing, without any explanatory footnote.
+* Other than that, the text is simply in the previous verse, that being the last one of the chapter.
 
 #### Emptyvss
 Ignoring the complete OT, the output of SWORD utility **emptyvss** lists these verses:
