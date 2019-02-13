@@ -11,7 +11,7 @@
 00048	A
 00002	Æneas
 00001	Ænon
-00002	-
+00001	-
 00005	Aaron
 00001	Abaddon
 00003	Abba
@@ -251,7 +251,7 @@
 00001	Amphipolis
 00001	Amplias
 00001	amulets
-00262	an
+00259	an
 00003	An
 00011	Ananias
 00001	anchor
@@ -282,7 +282,7 @@
 00010	anointed
 00001	Anointed
 00004	anointing
-00229	another
+00232	another
 00002	Another
 00034	answer
 00222	answered
@@ -4098,7 +4098,7 @@
 00004	Original
 00001	ornament
 00001	orphans
-00143	other
+00140	other
 00001	Other
 00058	others
 00013	Others
@@ -5462,9 +5462,9 @@
 00001	soles
 00012	Solomon
 00001	solve
-00174	some
+00172	some
 00010	Some
-00022	something
+00024	something
 00001	somewhat
 00193	son
 00219	Son
@@ -5932,7 +5932,7 @@
 00001	thigh
 00004	thine
 00001	Thine
-00109	thing
+00107	thing
 00688	things
 00001	Things
 00048	think
