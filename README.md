@@ -89,7 +89,6 @@ Ignoring the complete OT, the output of SWORD utility **emptyvss** lists these v
 Matthew 19:30
 Acts 8:37
 Acts 23:35
-II Corinthians 4:18
 II Corinthians 13:14
 I Thessalonians 2:20
 II Timothy 3:17
