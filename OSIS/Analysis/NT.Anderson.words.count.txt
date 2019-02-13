@@ -11,8 +11,7 @@
 00048	A
 00002	Æneas
 00001	Ænon
-00003	-
-00001	-whom
+00002	-
 00005	Aaron
 00001	Abaddon
 00003	Abba
@@ -3524,8 +3523,7 @@
 00014	loosed
 00003	loosing
 00026	lord
-00676	Lord
-00001	Lord-
+00677	Lord
 00008	lords
 00001	lordships
 00017	lose
@@ -6510,7 +6508,7 @@
 00033	Whoever
 00106	whole
 00005	wholly
-00269	whom
+00270	whom
 00005	Whom
 00004	whomever
 00055	whose
