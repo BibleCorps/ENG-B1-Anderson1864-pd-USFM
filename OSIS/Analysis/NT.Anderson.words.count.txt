@@ -11,17 +11,8 @@
 00048	A
 00002	Æneas
 00001	Ænon
-00004	-
-00001	-and
-00001	-churches
-00001	-days
-00001	-doing
-00001	-go
-00001	-Lord
-00001	-their
-00001	-up
+00003	-
 00001	-whom
-00001	-you
 00005	Aaron
 00001	Abaddon
 00003	Abba
@@ -62,7 +53,6 @@
 00001	abused
 00001	abusing
 00009	abyss
-00003	ac
 00005	accept
 00016	acceptable
 00001	acceptably
@@ -78,11 +68,10 @@
 00001	accomplishment
 00004	accord
 00004	accordance
-00001	accordign
-00167	according
+00170	according
 00002	According
 00001	Accordingly
-00103	account
+00104	account
 00002	accounted
 00001	accounts
 00001	accurate
@@ -261,7 +250,6 @@
 00005	Among
 00001	Amos
 00001	Amphipolis
-00001	ample
 00001	Amplias
 00001	amulets
 00262	an
@@ -271,7 +259,7 @@
 00003	anchors
 00006	ancient
 00003	ancients
-07978	and
+07979	and
 02588	And
 00001	AND
 00002	Anderson
@@ -449,8 +437,7 @@
 00001	Asyncritus
 00363	at
 00012	At
-00026	ate
-00001	ate-
+00027	ate
 00001	Athenians
 00005	Athens
 00004	attached
@@ -545,7 +532,7 @@
 00002	baths
 00006	battle
 00001	battles
-01507	be
+01508	be
 00053	Be
 00006	beam
 00046	bear
@@ -1004,7 +991,7 @@
 00001	chrysoprase
 00073	church
 00001	Church
-00033	churches
+00034	churches
 00001	Chuza
 00008	Cilicia
 00001	cinnamon
@@ -1017,7 +1004,6 @@
 00001	circumspectly
 00002	circumstances
 00001	cited
-00001	cites
 00019	cities
 00003	citizen
 00002	citizens
@@ -1291,7 +1277,6 @@
 00001	copy
 00001	Corban
 00001	cordially
-00002	cording
 00001	cords
 00006	Corinth
 00005	Corinthians
@@ -1320,7 +1305,7 @@
 00001	counsellor
 00002	counselor
 00001	counsels
-00016	count
+00015	count
 00021	counted
 00002	countenance
 00001	Counting
@@ -1444,7 +1429,7 @@
 00262	day
 00002	day-time
 00001	daylight
-00159	days
+00160	days
 00002	deacon
 00001	deaconess
 00004	deacons
@@ -1496,7 +1481,7 @@
 00001	dedicated
 00001	dedicates
 00001	dedication
-00001	Dedication
+00001	DedicationNone
 00015	deed
 00032	deeds
 00008	deep
@@ -1748,7 +1733,7 @@
 00001	doest
 00001	dog
 00008	dogs
-00030	doing
+00031	doing
 00009	dominion
 00140	done
 00030	door
@@ -1829,10 +1814,8 @@
 00006	dying
 00001	dysentery
 00063	each
-00001	Eachel
 00001	eagerly
 00003	eagle
-00001	Eamah
 00021	ear
 00001	earlier
 00011	early
@@ -2058,7 +2041,6 @@
 00006	evil-doers
 00001	evil-speakers
 00003	evils
-00002	ex
 00003	exact
 00001	Exact
 00003	exalt
@@ -2069,7 +2051,7 @@
 00003	examine
 00005	examined
 00001	examining
-00012	example
+00013	example
 00005	examples
 00006	exceeding
 00011	exceedingly
@@ -2087,6 +2069,7 @@
 00004	excited
 00001	excitement
 00001	excitements
+00001	excites
 00001	exciting
 00001	exclude
 00001	excluded
@@ -2226,7 +2209,6 @@
 00009	Felix
 00082	fell
 00001	fellow
-00001	fellow-
 00001	fellow-citizens
 00001	fellow-disciples
 00001	fellow-elder
@@ -2237,16 +2219,15 @@
 00004	fellow-laborers
 00002	fellow-prisoner
 00001	fellow-prisoners
-00005	fellow-servant
+00006	fellow-servant
 00004	fellow-servants
 00002	fellow-soldier
 00001	fellow-traveler
 00001	fellow-travelers
 00001	fellow-worker
-00001	fellow-workers
+00002	fellow-workers
 00002	fellow-workman
 00001	fellows
-00001	fellowservant
 00010	fellowship
 00001	felt
 00003	female
@@ -2443,9 +2424,8 @@
 00002	frankincense
 00001	fraught
 00027	free
-00001	free-
 00001	free-will
-00001	free-woman
+00002	free-woman
 00002	freed
 00001	freedman
 00001	Freedmen
@@ -2525,8 +2505,7 @@
 00003	gathering
 00006	gathers
 00001	gaudy
-00138	gave
-00001	gave-
+00139	gave
 00006	gavest
 00001	Gaza
 00001	gazing
@@ -2586,7 +2565,7 @@
 00007	gnashing
 00001	gnat
 00001	gnawed
-00232	go
+00233	go
 00042	Go
 00001	goads
 00002	goal
@@ -2771,7 +2750,7 @@
 00208	having
 00008	Having
 00001	hay
-02913	he
+02917	he
 00261	He
 00058	head
 00003	headlong
@@ -2874,7 +2853,6 @@
 00019	His
 00001	history
 00021	hither
-00005	ho
 00045	hold
 00001	Hold
 00007	holding
@@ -2951,8 +2929,7 @@
 00002	Husbands
 00001	hyacinth
 00001	hyacinthine
-00001	Hymenæus
-00001	Hymenaeus
+00002	Hymenæus
 00003	hymn
 00003	hymns
 00001	hypocrisies
@@ -2965,7 +2942,6 @@
 00001	hyssop-stalk
 02202	I
 00006	Iconium
-00001	ID
 00009	idle
 00007	idol
 00002	idolater
@@ -3024,7 +3000,7 @@
 00002	improper
 00001	impure
 00001	impurities
-03146	in
+03147	in
 00057	In
 00009	inasmuch
 00003	Inasmuch
@@ -3072,7 +3048,7 @@
 00001	influence
 00001	influenced
 00002	influential
-00001	Info
+00001	InfoNone
 00001	inform
 00001	information
 00004	informed
@@ -3176,9 +3152,8 @@
 00001	Issachar
 00005	issue
 00002	issued
-01229	it
+01230	it
 00096	It
-00001	it-
 00001	Italian
 00004	Italy
 00001	itching
@@ -3413,7 +3388,6 @@
 00002	lays
 00015	Lazarus
 00001	lazy
-00001	Le
 00016	lead
 00004	leader
 00002	leaders
@@ -3499,8 +3473,7 @@
 00004	lightning
 00004	lightnings
 00001	lights
-00158	like
-00001	like-
+00159	like
 00005	liken
 00004	likened
 00009	likeness
@@ -3551,7 +3524,7 @@
 00014	loosed
 00003	loosing
 00026	lord
-00675	Lord
+00676	Lord
 00001	Lord-
 00008	lords
 00001	lordships
@@ -3580,7 +3553,6 @@
 00001	lowest
 00003	lowliness
 00008	lowly
-00001	ls
 00001	Lucas
 00002	Lucius
 00003	Luke
@@ -3982,7 +3954,7 @@
 00002	Nineveh
 00001	Ninevites
 00010	ninth
-00512	no
+00513	no
 00032	No
 00008	Noah
 00001	noble
@@ -4042,10 +4014,9 @@
 00001	occupies
 00001	occupy
 00005	odor
-05753	of
+05754	of
 00016	Of
 00007	OF
-00001	of-
 00053	off
 00003	offend
 00004	offended
@@ -4690,6 +4661,7 @@
 00008	race
 00001	race-course
 00001	Rachab
+00001	Rachel
 00001	rage
 00002	raging
 00001	Rahab
@@ -4702,6 +4674,7 @@
 00064	raised
 00003	raises
 00001	raising
+00001	Ramah
 00021	ran
 00001	rank
 00005	ransom
@@ -5551,8 +5524,7 @@
 00002	speakest
 00041	speaking
 00001	speakings
-00032	speaks
-00001	speaks-
+00033	speaks
 00001	spear
 00001	spearmen
 00002	spectacle
@@ -5649,8 +5621,7 @@
 00016	stones
 00002	stonest
 00004	stony
-00076	stood
-00001	stood-
+00077	stood
 00001	stoop
 00004	stooped
 00001	stooping
@@ -5931,14 +5902,13 @@
 03545	that
 00046	That
 00001	that-the
-11054	the
+11056	the
 00240	The
 00016	THE
-00002	the-
 00002	theater
 00107	thee
 00003	thefts
-00488	their
+00489	their
 00001	Their
 00005	theirs
 01392	them
@@ -6011,9 +5981,8 @@
 00001	threatened
 00002	threatening
 00001	threatenings
-00078	three
+00079	three
 00001	Three
-00001	three-
 00029	threw
 00002	throat
 00054	throne
@@ -6058,8 +6027,7 @@
 00001	tithe
 00007	tithes
 00014	Titus
-00001	tn
-05858	to
+05859	to
 00037	To
 00001	TO
 00013	to-day
@@ -6307,7 +6275,7 @@
 00001	unwillingly
 00002	unwise
 00002	unworthy
-00391	up
+00392	up
 00001	upbraids
 00001	upholding
 00001	uplifted
@@ -6499,8 +6467,7 @@
 00007	Well
 00001	well-doing
 00001	well-known
-00001	well-pleasing
-00001	wellpleasing
+00002	well-pleasing
 00323	went
 00010	wept
 00743	were
@@ -6525,9 +6492,8 @@
 00002	Wherever
 00039	whether
 00004	Whether
-00886	which
+00887	which
 00017	Which
-00001	which-
 00126	while
 00024	While
 00001	whip
@@ -6622,7 +6588,7 @@
 00001	woes
 00002	wolf
 00004	wolves
-00095	woman
+00094	woman
 00008	Woman
 00013	womb
 00001	wombs
@@ -6645,7 +6611,7 @@
 00001	wore
 00075	work
 00006	worked
-00005	workers
+00004	workers
 00006	working
 00001	workman
 00001	workmanship
@@ -6703,7 +6669,7 @@
 00001	yoke-fellow
 00001	yoked
 00001	yonder
-03491	you
+03492	you
 00164	You
 00032	young
 00001	Young
