@@ -6,7 +6,7 @@
     <osisText osisIDWork="NT.Anderson" osisRefWork="Bible" xml:lang="und">
         <header>
             <revisionDesc resp="David">
-                <date>2019.02.13T16.36.40</date>
+                <date>2019.02.13T17.57.48</date>
                 <p>Converted from USFM source using u2o.py</p>
             </revisionDesc>
             <work osisWork="NT.Anderson">
@@ -27,10 +27,10 @@
 <description type="usfm" subType="x-rem">Version 2019-02-12</description>
 <description type="usfm" subType="x-id">LUK ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-12</description>
+<description type="usfm" subType="x-rem">Version 2019-02-13</description>
 <description type="usfm" subType="x-id">JHN ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-12</description>
+<description type="usfm" subType="x-rem">Version 2019-02-13</description>
 <description type="usfm" subType="x-id">ACT ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
 <description type="usfm" subType="x-rem">Version 2019-02-12</description>
@@ -38,7 +38,7 @@
 <description type="usfm" subType="x-rem">Verse 35 was not included in the 1866 printing. The text is part of verse 34.</description>
 <description type="usfm" subType="x-id">ROM ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-12</description>
+<description type="usfm" subType="x-rem">Version 2019-02-13</description>
 <description type="usfm" subType="x-rem">The phrase "God’s plan of justifying men" is not found in the 1866 printing (Romans 1:17; 3:5,21; 10:3).</description>
 <description type="usfm" subType="x-id">1CO ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
@@ -75,7 +75,7 @@
 <description type="usfm" subType="x-rem">2 Tim 3:17 was not included in the 1866 printing. The text is part of verse 16.</description>
 <description type="usfm" subType="x-id">TIT ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-01</description>
+<description type="usfm" subType="x-rem">Version 2019-02-13</description>
 <description type="usfm" subType="x-id">PHM ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
 <description type="usfm" subType="x-rem">Version 2019-02-01</description>
@@ -5358,7 +5358,7 @@ And when he was now not far from the house, the centurion sent friends to him, a
 </p>
 <p>
 <verse eID="Luke.7.39" />
-<verse sID="Luke.7.40" osisID="Luke.7.40" n="40" />And Jesus answered and said to him: Simon, I have some thing to say to you. He replied: Teacher, say on.
+<verse sID="Luke.7.40" osisID="Luke.7.40" n="40" />And Jesus answered and said to him: Simon, I have something to say to you. He replied: Teacher, say on.
 <verse eID="Luke.7.40" />
 <verse sID="Luke.7.41" osisID="Luke.7.41" n="41" />A certain creditor had two debtors; the one owed him five hundred denarii, the other, fifty.
 <verse eID="Luke.7.41" />
@@ -8443,7 +8443,7 @@ Jesus said to them: If you were the children of Abraham, you would do the works 
 </p>
 <p>
 <verse eID="John.9.29" />
-<verse sID="John.9.30" osisID="John.9.30" n="30" />The man answered and said to them: Why, there is some thing wonderful in this, that you know not whence he is, and yet he has opened my eyes.
+<verse sID="John.9.30" osisID="John.9.30" n="30" />The man answered and said to them: Why, there is something wonderful in this, that you know not whence he is, and yet he has opened my eyes.
 <verse eID="John.9.30" />
 <verse sID="John.9.31" osisID="John.9.31" n="31" />We know that God hears not sinners; but if any one be a worshiper of God, and do his will, him he hears.
 <verse eID="John.9.31" />
@@ -12230,7 +12230,7 @@ The apostles, and the elders, and the brethren, to the brethren of the Gentiles 
 <!-- cl --><milestone type="x-chapterLabel" n="II." />
 <p>
 <chapter sID="Rom.2" osisID="Rom.2" n="2" />
-<verse sID="Rom.2.1" osisID="Rom.2.1" n="1" />For which reason, you are without excuse, O man, whoever you are, that judge; for in that in which you judge an other, you condemn yourself; for you who judge, practice the same things.
+<verse sID="Rom.2.1" osisID="Rom.2.1" n="1" />For which reason, you are without excuse, O man, whoever you are, that judge; for in that in which you judge another, you condemn yourself; for you who judge, practice the same things.
 <verse eID="Rom.2.1" />
 <verse sID="Rom.2.2" osisID="Rom.2.2" n="2" />But we know that the judgment of God against those who practice such things, is according to truth.
 <verse eID="Rom.2.2" />
@@ -13952,7 +13952,7 @@ The grace of our Lord Jesus Christ be with you.
 <verse eID="1Cor.11.31" />
 <verse sID="1Cor.11.32" osisID="1Cor.11.32" n="32" />but being judged, we are chastened by the Lord, that we may not be condemned with the world.
 <verse eID="1Cor.11.32" />
-<verse sID="1Cor.11.33" osisID="1Cor.11.33" n="33" />Wherefore, my brethren, when you come together to eat, wait for one an other:-
+<verse sID="1Cor.11.33" osisID="1Cor.11.33" n="33" />Wherefore, my brethren, when you come together to eat, wait for one another:
 <verse eID="1Cor.11.33" />
 <verse sID="1Cor.11.34" osisID="1Cor.11.34" n="34" />and if any one is hungry, let him eat at home, that you come not together for condemnation. But other things I will set in order when I come.
 <verse eID="1Cor.11.34" />
@@ -17368,7 +17368,7 @@ The grace of our Lord Jesus Christ be with you.
 <verse eID="Titus.3.1" />
 <verse sID="Titus.3.2" osisID="Titus.3.2" n="2" />to revile no one, not to be contentious, but gentle, showing all meekness to all men.
 <verse eID="Titus.3.2" />
-<verse sID="Titus.3.3" osisID="Titus.3.3" n="3" />For we ourselves also were formerly foolish, disobedient, deceived, serving various desires and pleasures, living in malice and envy, hateful, and hating one an other.
+<verse sID="Titus.3.3" osisID="Titus.3.3" n="3" />For we ourselves also were formerly foolish, disobedient, deceived, serving various desires and pleasures, living in malice and envy, hateful, and hating one another.
 </p>
 <p>
 <verse eID="Titus.3.3" />
