@@ -6,7 +6,7 @@
     <osisText osisIDWork="NT.Anderson" osisRefWork="Bible" xml:lang="und">
         <header>
             <revisionDesc resp="David">
-                <date>2019.02.13T16.05.54</date>
+                <date>2019.02.13T16.36.40</date>
                 <p>Converted from USFM source using u2o.py</p>
             </revisionDesc>
             <work osisWork="NT.Anderson">
@@ -42,14 +42,14 @@
 <description type="usfm" subType="x-rem">The phrase "God’s plan of justifying men" is not found in the 1866 printing (Romans 1:17; 3:5,21; 10:3).</description>
 <description type="usfm" subType="x-id">1CO ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-12</description>
+<description type="usfm" subType="x-rem">Version 2019-02-13</description>
 <description type="usfm" subType="x-id">2CO ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
 <description type="usfm" subType="x-rem">Version 2019-02-12</description>
 <description type="usfm" subType="x-rem">2Cor 13:14 was not included in the 1866 printing. The text is part of verse 13.</description>
 <description type="usfm" subType="x-id">GAL ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-12</description>
+<description type="usfm" subType="x-rem">Version 2019-02-13</description>
 <description type="usfm" subType="x-id">EPH ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
 <description type="usfm" subType="x-rem">Version 2019-02-03</description>
@@ -88,7 +88,7 @@
 <description type="usfm" subType="x-rem">Version 2019-02-05</description>
 <description type="usfm" subType="x-id">1PE ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-12</description>
+<description type="usfm" subType="x-rem">Version 2019-02-13</description>
 <description type="usfm" subType="x-rem">1Pet 1:25 was not included in the 1866 printing. The text is part of verse 24.</description>
 <description type="usfm" subType="x-id">2PE ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
@@ -13726,7 +13726,7 @@ The grace of our Lord Jesus Christ be with you.
 <!-- cl --><milestone type="x-chapterLabel" n="IX." />
 <p>
 <chapter sID="1Cor.9" osisID="1Cor.9" n="9" />
-<verse sID="1Cor.9.1" osisID="1Cor.9.1" n="1" />Am I not free? Am I not an apostle? Have I not seen Jesus Christ our Lord-? Are you not my work in the Lord?
+<verse sID="1Cor.9.1" osisID="1Cor.9.1" n="1" />Am I not free? Am I not an apostle? Have I not seen Jesus Christ our Lord? Are you not my work in the Lord?
 <verse eID="1Cor.9.1" />
 <verse sID="1Cor.9.2" osisID="1Cor.9.2" n="2" />If I am not an apostle to others, yet certainly I am to you; for the seal of my apostleship are you in the Lord.
 <verse eID="1Cor.9.2" />
@@ -15265,7 +15265,7 @@ The grace of our Lord Jesus Christ be with you.
 <verse eID="Gal.4.8" />
 <verse sID="Gal.4.9" osisID="Gal.4.9" n="9" />now, however, after having known God, rather indeed having been known by God, how is it that you are turning back to the weak and beggarly rudiments, to which you desire again to be in bondage, as at first?
 <verse eID="Gal.4.9" />
-<verse sID="Gal.4.10" osisID="Gal.4.10" n="10" />You observe days and months and times and years. -
+<verse sID="Gal.4.10" osisID="Gal.4.10" n="10" />You observe days and months and times and years.
 <verse eID="Gal.4.10" />
 <verse sID="Gal.4.11" osisID="Gal.4.11" n="11" />fear for you, lest I have bestowed labor upon you in vain.
 </p>
@@ -18598,7 +18598,7 @@ Grace be with you all. Amen.
 <verse eID="1Pet.1.6" />
 <verse sID="1Pet.1.7" osisID="1Pet.1.7" n="7" />that your faith, when proved, being much more precious than gold, which perishes though it be tried by fire, may be found to be for praise and honor and glory, at the revelation of Jesus Christ;
 <verse eID="1Pet.1.7" />
-<verse sID="1Pet.1.8" osisID="1Pet.1.8" n="8" />-whom, though you have not seen him, yet you love; on whom not now looking, but believing, you rejoice with joy unspeakable, and full of glory,
+<verse sID="1Pet.1.8" osisID="1Pet.1.8" n="8" />whom, though you have not seen him, yet you love; on whom not now looking, but believing, you rejoice with joy unspeakable, and full of glory,
 <verse eID="1Pet.1.8" />
 <verse sID="1Pet.1.9" osisID="1Pet.1.9" n="9" />receiving the end of your faith, the salvation of your souls.
 </p>
