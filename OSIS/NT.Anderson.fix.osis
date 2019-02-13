@@ -6,51 +6,50 @@
     <osisText osisIDWork="NT.Anderson" osisRefWork="Bible" xml:lang="und">
         <header>
             <revisionDesc resp="David">
-                <date>2019.02.10T15.54.00</date>
+                <date>2019.02.13T17.57.48</date>
                 <p>Converted from USFM source using u2o.py</p>
             </revisionDesc>
             <work osisWork="NT.Anderson">
                 <title>NT.Anderson</title>
                 <description type="usfm" subType="x-id">FRT ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-07</description>
+<description type="usfm" subType="x-rem">Version 2019-02-13</description>
 <description type="usfm" subType="x-rem">Title Page</description>
 <description type="usfm" subType="x-id">INT ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
 <description type="usfm" subType="x-rem">Version 20170711</description>
 <description type="usfm" subType="x-id">MAT ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-10</description>
+<description type="usfm" subType="x-rem">Version 2019-02-12</description>
 <description type="usfm" subType="x-rem">Mat 19:30 was not included in the 1866 printing. The text is part of verse 29.</description>
 <description type="usfm" subType="x-id">MRK ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-07</description>
+<description type="usfm" subType="x-rem">Version 2019-02-12</description>
 <description type="usfm" subType="x-id">LUK ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-07</description>
+<description type="usfm" subType="x-rem">Version 2019-02-13</description>
 <description type="usfm" subType="x-id">JHN ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-07</description>
+<description type="usfm" subType="x-rem">Version 2019-02-13</description>
 <description type="usfm" subType="x-id">ACT ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-10</description>
+<description type="usfm" subType="x-rem">Version 2019-02-12</description>
 <description type="usfm" subType="x-rem">Acts 8:37 was not included in the 1866 printing. No footnote either!</description>
 <description type="usfm" subType="x-rem">Verse 35 was not included in the 1866 printing. The text is part of verse 34.</description>
 <description type="usfm" subType="x-id">ROM ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-09</description>
+<description type="usfm" subType="x-rem">Version 2019-02-13</description>
 <description type="usfm" subType="x-rem">The phrase "God’s plan of justifying men" is not found in the 1866 printing (Romans 1:17; 3:5,21; 10:3).</description>
 <description type="usfm" subType="x-id">1CO ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-05</description>
+<description type="usfm" subType="x-rem">Version 2019-02-13</description>
 <description type="usfm" subType="x-id">2CO ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-10</description>
-<description type="usfm" subType="x-rem">2Cor 4:18 was not included in the 1866 printing. The text is part of verse 17.</description>
+<description type="usfm" subType="x-rem">Version 2019-02-12</description>
 <description type="usfm" subType="x-rem">2Cor 13:14 was not included in the 1866 printing. The text is part of verse 13.</description>
 <description type="usfm" subType="x-id">GAL ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-07</description>
+<description type="usfm" subType="x-rem">Version 2019-02-13</description>
 <description type="usfm" subType="x-id">EPH ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
 <description type="usfm" subType="x-rem">Version 2019-02-03</description>
@@ -59,7 +58,7 @@
 <description type="usfm" subType="x-rem">Version 2019-02-01</description>
 <description type="usfm" subType="x-id">COL ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-01</description>
+<description type="usfm" subType="x-rem">Version 2019-02-13</description>
 <description type="usfm" subType="x-id">1TH ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
 <description type="usfm" subType="x-rem">Version 2019-02-10</description>
@@ -69,27 +68,27 @@
 <description type="usfm" subType="x-rem">Version 2019-02-01</description>
 <description type="usfm" subType="x-id">1TI ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-07</description>
+<description type="usfm" subType="x-rem">Version 2019-02-12</description>
 <description type="usfm" subType="x-id">2TI ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
 <description type="usfm" subType="x-rem">Version 2019-02-10</description>
 <description type="usfm" subType="x-rem">2 Tim 3:17 was not included in the 1866 printing. The text is part of verse 16.</description>
 <description type="usfm" subType="x-id">TIT ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-01</description>
+<description type="usfm" subType="x-rem">Version 2019-02-13</description>
 <description type="usfm" subType="x-id">PHM ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
 <description type="usfm" subType="x-rem">Version 2019-02-01</description>
 <description type="usfm" subType="x-id">HEB ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-10</description>
+<description type="usfm" subType="x-rem">Version 2019-02-12</description>
 <description type="usfm" subType="x-rem">Heb 13:25 was not included in the 1866 printing. The text is part of verse 24.</description>
 <description type="usfm" subType="x-id">JAS ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
 <description type="usfm" subType="x-rem">Version 2019-02-05</description>
 <description type="usfm" subType="x-id">1PE ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-10</description>
+<description type="usfm" subType="x-rem">Version 2019-02-13</description>
 <description type="usfm" subType="x-rem">1Pet 1:25 was not included in the 1866 printing. The text is part of verse 24.</description>
 <description type="usfm" subType="x-id">2PE ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
@@ -110,7 +109,7 @@
 <description type="usfm" subType="x-rem">Jude 1:25 was not included in the 1866 printing. The text is part of verse 24.</description>
 <description type="usfm" subType="x-id">REV ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-10</description>
+<description type="usfm" subType="x-rem">Version 2019-02-12</description>
 <description type="usfm" subType="x-rem">Rev 4:11 was not included in the 1866 printing. The text is part of verse 10.</description>
 <description type="usfm" subType="x-id">GLO ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
@@ -129,14 +128,14 @@
 <!-- mt4 --><title level="4" type="main">by</title>
 <!-- mt3 --><title level="3" type="main">H. T. Anderson.</title>
 <div>
-<!-- periph --><title type="main">Publication Info</title><!-- USFM Attributes -  -->
+<!-- periph --><title type="main">Publication Info</title>None
 <milestone type="x-usfm-h" n="Rights" />
 <p type="x-center">
-Entered accordign to Act of Congress, in the year 1864, by H. T. Anderson, In the Clerk's Office of the District Court of the United States for the Southern Distrcit of Ohio.
+Entered according to Act of Congress, in the year 1864, by H. T. Anderson, In the Clerk's Office of the District Court of the United States for the Southern Distrcit of Ohio.
 </p>
 </div>
 <div>
-<!-- periph --><title type="main">Dedication</title><!-- USFM Attributes -  -->
+<!-- periph --><title type="main">Dedication</title>None
 <milestone type="x-usfm-h" n="Dedication and Preface" />
 <p>
 <hi type="small-caps">To all</hi> Lovers of Truth, the Author dedicates his Translation of the New Testament.
@@ -277,7 +276,7 @@ The work has been carried on under many adverse circumstances; but, by the good 
 <verse eID="Matt.2.16" />
 <verse sID="Matt.2.17" osisID="Matt.2.17" n="17" />Then was fulfilled that which was spoken by Jeremiah the prophet, saying:
 <verse eID="Matt.2.17" />
-<verse sID="Matt.2.18" osisID="Matt.2.18" n="18" />A voice was heard in Eamah, wailing and weeping, and great mourning; Eachel weeping for her children, and refusing to be comforted because they are no more.
+<verse sID="Matt.2.18" osisID="Matt.2.18" n="18" />A voice was heard in Ramah, wailing and weeping, and great mourning; Rachel weeping for her children, and refusing to be comforted because they are no more.
 </p>
 <p>
 <verse eID="Matt.2.18" />
@@ -1222,7 +1221,7 @@ The work has been carried on under many adverse circumstances; but, by the good 
 </p>
 <p>
 <verse eID="Matt.13.30" />
-<verse sID="Matt.13.31" osisID="Matt.13.31" n="31" />Another parable he laid before them, saying: The kingdom of heaven is like- a grain of mustard, that a man took and sowed in his field.
+<verse sID="Matt.13.31" osisID="Matt.13.31" n="31" />Another parable he laid before them, saying: The kingdom of heaven is like a grain of mustard, that a man took and sowed in his field.
 <verse eID="Matt.13.31" />
 <verse sID="Matt.13.32" osisID="Matt.13.32" n="32" />It is, indeed, the least of all seeds; but when it is grown it is the largest of garden-plants, and becomes a tree, so that the birds of the air come and roost in its branches.
 </p>
@@ -1582,7 +1581,7 @@ The work has been carried on under many adverse circumstances; but, by the good 
 <verse eID="Matt.17.13" />
 <verse sID="Matt.17.14" osisID="Matt.17.14" n="14" />And when they had come to the multitude, there came to him a man who knelt to him,
 <verse eID="Matt.17.14" />
-<verse sID="Matt.17.15" osisID="Matt.17.15" n="15" />and said: Lord, have mercy on my son; for ho is a lunatic, and suffers grievously; for he often falls into the fire, and often into the water.
+<verse sID="Matt.17.15" osisID="Matt.17.15" n="15" />and said: Lord, have mercy on my son; for he is a lunatic, and suffers grievously; for he often falls into the fire, and often into the water.
 <verse eID="Matt.17.15" />
 <verse sID="Matt.17.16" osisID="Matt.17.16" n="16" />And I brought him to thy disciples, and they were not able to cure him.
 <verse eID="Matt.17.16" />
@@ -2388,7 +2387,7 @@ The work has been carried on under many adverse circumstances; but, by the good 
 <verse eID="Matt.25.33" />
 <verse sID="Matt.25.34" osisID="Matt.25.34" n="34" />Then the King will say to those on his right hand: Come, you blessed of my Father, inherit the kingdom prepared for you from the foundation of the world.
 <verse eID="Matt.25.34" />
-<verse sID="Matt.25.35" osisID="Matt.25.35" n="35" />For I was hungry, and you gave me food; I was thirsty, and you gave- me drink; I was a stranger, and you took me to your houses;
+<verse sID="Matt.25.35" osisID="Matt.25.35" n="35" />For I was hungry, and you gave me food; I was thirsty, and you gave me drink; I was a stranger, and you took me to your houses;
 <verse eID="Matt.25.35" />
 <verse sID="Matt.25.36" osisID="Matt.25.36" n="36" />naked, and you clothed me; I was sick, and you visited me; I was in prison, and you came to me.
 <verse eID="Matt.25.36" />
@@ -3955,7 +3954,7 @@ And he went to the villages round about, and taught.
 <!-- cl --><milestone type="x-chapterLabel" n="XII." />
 <p>
 <chapter sID="Mark.12" osisID="Mark.12" n="12" />
-<verse sID="Mark.12.1" osisID="Mark.12.1" n="1" />And ho began to speak to them in parables: A man planted a vineyard, and set a hedge around it, and digged a wine-press, and built a tower, and let it out to vine-dressers, and went into another country.
+<verse sID="Mark.12.1" osisID="Mark.12.1" n="1" />And he began to speak to them in parables: A man planted a vineyard, and set a hedge around it, and digged a wine-press, and built a tower, and let it out to vine-dressers, and went into another country.
 <verse eID="Mark.12.1" />
 <verse sID="Mark.12.2" osisID="Mark.12.2" n="2" />And at the proper time, he sent a servant to the vine-dressers, that he might receive from the vine-dressers of the fruit of the vineyard.
 <verse eID="Mark.12.2" />
@@ -4122,7 +4121,7 @@ And he went to the villages round about, and taught.
 <verse eID="Mark.13.25" />
 <verse sID="Mark.13.26" osisID="Mark.13.26" n="26" />And then shall they see the Son of man coming in clouds with great power and glory.
 <verse eID="Mark.13.26" />
-<verse sID="Mark.13.27" osisID="Mark.13.27" n="27" />And then will ho send his angels, and gather his elect from the four winds, from the most distant part of earth to the most distant part of heaven.
+<verse sID="Mark.13.27" osisID="Mark.13.27" n="27" />And then will he send his angels, and gather his elect from the four winds, from the most distant part of earth to the most distant part of heaven.
 </p>
 <p>
 <verse eID="Mark.13.27" />
@@ -5359,7 +5358,7 @@ And when he was now not far from the house, the centurion sent friends to him, a
 </p>
 <p>
 <verse eID="Luke.7.39" />
-<verse sID="Luke.7.40" osisID="Luke.7.40" n="40" />And Jesus answered and said to him: Simon, I have some thing to say to you. He replied: Teacher, say on.
+<verse sID="Luke.7.40" osisID="Luke.7.40" n="40" />And Jesus answered and said to him: Simon, I have something to say to you. He replied: Teacher, say on.
 <verse eID="Luke.7.40" />
 <verse sID="Luke.7.41" osisID="Luke.7.41" n="41" />A certain creditor had two debtors; the one owed him five hundred denarii, the other, fifty.
 <verse eID="Luke.7.41" />
@@ -5460,7 +5459,7 @@ And when he was now not far from the house, the centurion sent friends to him, a
 <verse eID="Luke.8.29" />
 <verse sID="Luke.8.30" osisID="Luke.8.30" n="30" />And Jesus asked him, saying: What is your name? He answered, Legion; for many demons had entered into him.
 <verse eID="Luke.8.30" />
-<verse sID="Luke.8.31" osisID="Luke.8.31" n="31" />And they be sought him, that he would not command them to -go away into the abyss.
+<verse sID="Luke.8.31" osisID="Luke.8.31" n="31" />And they be sought him, that he would not command them to go away into the abyss.
 </p>
 <p>
 <verse eID="Luke.8.31" />
@@ -6183,7 +6182,7 @@ And while they were all wondering at every thing that Jesus did, he said to his 
 <verse eID="Luke.14.9" />
 <verse sID="Luke.14.10" osisID="Luke.14.10" n="10" />But when you are invited, go and recline in the last place, that when he that invited you shall come, he may say to you, Friend, go up higher. Then you shall have honor in the presence of those who recline with you.
 <verse eID="Luke.14.10" />
-<verse sID="Luke.14.11" osisID="Luke.14.11" n="11" />For every one that exalts himself shall Le humbled; and he that humbles himself shall be exalted.
+<verse sID="Luke.14.11" osisID="Luke.14.11" n="11" />For every one that exalts himself shall be humbled; and he that humbles himself shall be exalted.
 </p>
 <p>
 <verse eID="Luke.14.11" />
@@ -6299,7 +6298,7 @@ Then the master of the house was angry, and said to his servant, Go out quickly 
 <verse eID="Luke.15.20" />
 <verse sID="Luke.15.21" osisID="Luke.15.21" n="21" />But his son said to him, Father, I have sinned against heaven and in your sight, and am no longer worthy to be called your son.
 <verse eID="Luke.15.21" />
-<verse sID="Luke.15.22" osisID="Luke.15.22" n="22" />But the father said to his servants, Bring forth the best robe, and put it- on him, and put a ring on his hand, and sandals on his feet.
+<verse sID="Luke.15.22" osisID="Luke.15.22" n="22" />But the father said to his servants, Bring forth the best robe, and put it on him, and put a ring on his hand, and sandals on his feet.
 <verse eID="Luke.15.22" />
 <verse sID="Luke.15.23" osisID="Luke.15.23" n="23" />And bring hither the fatted calf, and kill it, and let us eat and be merry;
 <verse eID="Luke.15.23" />
@@ -6752,7 +6751,7 @@ Then the master of the house was angry, and said to his servant, Go out quickly 
 <verse eID="Luke.20.9" />
 <verse sID="Luke.20.10" osisID="Luke.20.10" n="10" />And at the proper season, he sent a servant to those vine-dressers, that they should give him of the fruit of the vineyard. But the vine-dressers scourged him, and sent him away empty-handed.
 <verse eID="Luke.20.10" />
-<verse sID="Luke.20.11" osisID="Luke.20.11" n="11" />And ho then sent another servant. But they scourged him also, and treated him shamefully, and sent him away empty-handed.
+<verse sID="Luke.20.11" osisID="Luke.20.11" n="11" />And he then sent another servant. But they scourged him also, and treated him shamefully, and sent him away empty-handed.
 <verse eID="Luke.20.11" />
 <verse sID="Luke.20.12" osisID="Luke.20.12" n="12" />And he also sent a third; but they wounded him, and drove him out.
 </p>
@@ -7125,7 +7124,7 @@ But Peter followed at a distance.
 <verse eID="Luke.23.3" />
 <verse sID="Luke.23.4" osisID="Luke.23.4" n="4" />Pilate said to the chief priests and to the multitudes: I find no fault in this man.
 <verse eID="Luke.23.4" />
-<verse sID="Luke.23.5" osisID="Luke.23.5" n="5" />But they became the more urgent, and said: He ex cites the people, teaching throughout the whole of Judea, beginning from Galilee to this place.
+<verse sID="Luke.23.5" osisID="Luke.23.5" n="5" />But they became the more urgent, and said: He excites the people, teaching throughout the whole of Judea, beginning from Galilee to this place.
 <verse eID="Luke.23.5" />
 <verse sID="Luke.23.6" osisID="Luke.23.6" n="6" />When Pilate heard of Galilee, he asked if the man was a Galilean.
 </p>
@@ -7697,7 +7696,7 @@ But Peter followed at a distance.
 <verse eID="John.4.9" />
 <verse sID="John.4.10" osisID="John.4.10" n="10" />Jesus answered and said to her: If you had known the gift of God, and who it is that said to you, Give me to drink, you would have asked of him, and he would have given you living water.
 <verse eID="John.4.10" />
-<verse sID="John.4.11" osisID="John.4.11" n="11" />The woman said to him: Sir, you have ho vessel with which you can draw, and the well is deep; whence have you that living water?
+<verse sID="John.4.11" osisID="John.4.11" n="11" />The woman said to him: Sir, you have no vessel with which you can draw, and the well is deep; whence have you that living water?
 <verse eID="John.4.11" />
 <verse sID="John.4.12" osisID="John.4.12" n="12" />Are you greater than our father Jacob, who gave us the well, and drank from it himself, and his sons, and his cattle?
 </p>
@@ -8028,7 +8027,7 @@ Jesus said to her: You have well said. I have no husband;
 <verse eID="John.6.43" />
 <verse sID="John.6.44" osisID="John.6.44" n="44" />no man can come to me, unless the Father, who sent me, draw him; and I will raise him up at the last day.
 <verse eID="John.6.44" />
-<verse sID="John.6.45" osisID="John.6.45" n="45" />It is written in the- prophets, And they shall all be taught of God. Every one that hears from the Father, and learns, comes to me.
+<verse sID="John.6.45" osisID="John.6.45" n="45" />It is written in the prophets, And they shall all be taught of God. Every one that hears from the Father, and learns, comes to me.
 <verse eID="John.6.45" />
 <verse sID="John.6.46" osisID="John.6.46" n="46" />Not that any one has seen the Father, but he who is from God; he has seen the Father.
 </p>
@@ -8444,7 +8443,7 @@ Jesus said to them: If you were the children of Abraham, you would do the works 
 </p>
 <p>
 <verse eID="John.9.29" />
-<verse sID="John.9.30" osisID="John.9.30" n="30" />The man answered and said to them: Why, there is some thing wonderful in this, that you know not whence he is, and yet he has opened my eyes.
+<verse sID="John.9.30" osisID="John.9.30" n="30" />The man answered and said to them: Why, there is something wonderful in this, that you know not whence he is, and yet he has opened my eyes.
 <verse eID="John.9.30" />
 <verse sID="John.9.31" osisID="John.9.31" n="31" />We know that God hears not sinners; but if any one be a worshiper of God, and do his will, him he hears.
 <verse eID="John.9.31" />
@@ -8674,7 +8673,7 @@ Jesus said to them: If you were the children of Abraham, you would do the works 
 <verse eID="John.11.39" />
 <verse sID="John.11.40" osisID="John.11.40" n="40" />Jesus said to her: Did I not tell you, that, if you would believe, you should see the glory of God?
 <verse eID="John.11.40" />
-<verse sID="John.11.41" osisID="John.11.41" n="41" />Then they took away the stone. And Jesus lifted -up his eyes and said: Father, I thank thee, that thou hast heard me.
+<verse sID="John.11.41" osisID="John.11.41" n="41" />Then they took away the stone. And Jesus lifted up his eyes and said: Father, I thank thee, that thou hast heard me.
 <verse eID="John.11.41" />
 <verse sID="John.11.42" osisID="John.11.42" n="42" />I know, in deed, that thou dost always hear me. But for the sake of the multitude who stand around me, I have said it, that they may believe that thou hast sent me.
 <verse eID="John.11.42" />
@@ -9119,7 +9118,7 @@ Jesus said to them: If you were the children of Abraham, you would do the works 
 </p>
 <p>
 <verse eID="John.16.16" />
-<verse sID="John.16.17" osisID="John.16.17" n="17" />Then some of his disciples said one to another: What is this that he says to us, A little while, and - you will not see me; and again, a little while, and you will see me? and, Be cause I go to the Father?
+<verse sID="John.16.17" osisID="John.16.17" n="17" />Then some of his disciples said one to another: What is this that he says to us, A little while, and you will not see me; and again, a little while, and you will see me? and, Be cause I go to the Father?
 <verse eID="John.16.17" />
 <verse sID="John.16.18" osisID="John.16.18" n="18" />Therefore they said: What is this that he says, The little while? We know not what he says.
 <verse eID="John.16.18" />
@@ -9210,7 +9209,7 @@ Jesus said to them: If you were the children of Abraham, you would do the works 
 <verse eID="John.17.21" />
 <verse sID="John.17.22" osisID="John.17.22" n="22" />And the glory which thou gavest me, I have given them, that they may be one, as we are one;
 <verse eID="John.17.22" />
-<verse sID="John.17.23" osisID="John.17.23" n="23" />I in them, and thou ID me, that they may be made perfect in one, that the world may know that thou hast sent me, and hast loved them, as thou hast loved me.
+<verse sID="John.17.23" osisID="John.17.23" n="23" />I in them, and thou in me, that they may be made perfect in one, that the world may know that thou hast sent me, and hast loved them, as thou hast loved me.
 </p>
 <p>
 <verse eID="John.17.23" />
@@ -10188,7 +10187,7 @@ Men of Israel, why are you astonished at this? or, why do you look so earnestly 
 <verse eID="Acts.7.43" />
 <verse sID="Acts.7.44" osisID="Acts.7.44" n="44" />The tabernacle of the testimony was with our fathers in the wilderness, <transChange type="added">built</transChange> as he who spoke to Moses commanded him to build it, according to the pattern which he had seen:
 <verse eID="Acts.7.44" />
-<verse sID="Acts.7.45" osisID="Acts.7.45" n="45" />which our fathers, who were with Joshua, received by succession, and brought into the land possessed by the Gentiles, whom God continued to drive out from the face of our fathers till the -days of David,
+<verse sID="Acts.7.45" osisID="Acts.7.45" n="45" />which our fathers, who were with Joshua, received by succession, and brought into the land possessed by the Gentiles, whom God continued to drive out from the face of our fathers till the days of David,
 <verse eID="Acts.7.45" />
 <verse sID="Acts.7.46" osisID="Acts.7.46" n="46" />who found favor before God, and desired to find a dwelling-place for the God of Jacob.
 <verse eID="Acts.7.46" />
@@ -10196,7 +10195,7 @@ Men of Israel, why are you astonished at this? or, why do you look so earnestly 
 <verse eID="Acts.7.47" />
 <verse sID="Acts.7.48" osisID="Acts.7.48" n="48" />Yet the Most High dwells not in temples made with hands, as says the prophet:
 <verse eID="Acts.7.48" />
-<verse sID="Acts.7.49" osisID="Acts.7.49" n="49" />Heaven is my throne, and the earth is my footstool. What house will -you build me? says the Lord; or what is the place of my rest?
+<verse sID="Acts.7.49" osisID="Acts.7.49" n="49" />Heaven is my throne, and the earth is my footstool. What house will you build me? says the Lord; or what is the place of my rest?
 <verse eID="Acts.7.49" />
 <verse sID="Acts.7.50" osisID="Acts.7.50" n="50" />Has not my hand made all these things?
 </p>
@@ -11445,7 +11444,7 @@ The apostles, and the elders, and the brethren, to the brethren of the Gentiles 
 <verse eID="Acts.20.33" />
 <verse sID="Acts.20.34" osisID="Acts.20.34" n="34" />You yourselves know that these hands have ministered to my necessities, and to those who were with me.
 <verse eID="Acts.20.34" />
-<verse sID="Acts.20.35" osisID="Acts.20.35" n="35" />In all things I have taught you by ex ample, that by thus laboring, you ought to support the weak, and to remember the words of the Lord Jesus; for he himself said, It is more blessed to give, than to receive.
+<verse sID="Acts.20.35" osisID="Acts.20.35" n="35" />In all things I have taught you by example, that by thus laboring, you ought to support the weak, and to remember the words of the Lord Jesus; for he himself said, It is more blessed to give, than to receive.
 </p>
 <p>
 <verse eID="Acts.20.35" />
@@ -12231,7 +12230,7 @@ The apostles, and the elders, and the brethren, to the brethren of the Gentiles 
 <!-- cl --><milestone type="x-chapterLabel" n="II." />
 <p>
 <chapter sID="Rom.2" osisID="Rom.2" n="2" />
-<verse sID="Rom.2.1" osisID="Rom.2.1" n="1" />For which reason, you are without excuse, O man, whoever you are, that judge; for in that in which you judge an other, you condemn yourself; for you who judge, practice the same things.
+<verse sID="Rom.2.1" osisID="Rom.2.1" n="1" />For which reason, you are without excuse, O man, whoever you are, that judge; for in that in which you judge another, you condemn yourself; for you who judge, practice the same things.
 <verse eID="Rom.2.1" />
 <verse sID="Rom.2.2" osisID="Rom.2.2" n="2" />But we know that the judgment of God against those who practice such things, is according to truth.
 <verse eID="Rom.2.2" />
@@ -12348,7 +12347,7 @@ The apostles, and the elders, and the brethren, to the brethren of the Gentiles 
 </p>
 <p>
 <verse eID="Rom.3.18" />
-<verse sID="Rom.3.19" osisID="Rom.3.19" n="19" />Now we know that what the law says, it speaks- to those who are under the law, that every mouth may be stopped, and all the world become guilty before God.
+<verse sID="Rom.3.19" osisID="Rom.3.19" n="19" />Now we know that what the law says, it speaks to those who are under the law, that every mouth may be stopped, and all the world become guilty before God.
 <verse eID="Rom.3.19" />
 <verse sID="Rom.3.20" osisID="Rom.3.20" n="20" />Wherefore, by works of law, no flesh shall be justified in his sight; for by law is the knowledge of sin.
 </p>
@@ -12849,7 +12848,7 @@ The apostles, and the elders, and the brethren, to the brethren of the Gentiles 
 <verse eID="Rom.10.16" />
 <verse sID="Rom.10.17" osisID="Rom.10.17" n="17" />So, then, faith comes by hearing, and hearing by the word of God.
 <verse eID="Rom.10.17" />
-<verse sID="Rom.10.18" osisID="Rom.10.18" n="18" />But I say: Have they not heard? Yes, verily; their voice has gone forth into all the earth: and -their words to the ends of the world.
+<verse sID="Rom.10.18" osisID="Rom.10.18" n="18" />But I say: Have they not heard? Yes, verily; their voice has gone forth into all the earth: and their words to the ends of the world.
 <verse eID="Rom.10.18" />
 <verse sID="Rom.10.19" osisID="Rom.10.19" n="19" />But I say: Did not Israel know? First, Moses says: I will excite you to jealousy by that which is no nation; and by a foolish nation I will provoke you to wrath.
 <verse eID="Rom.10.19" />
@@ -13323,7 +13322,7 @@ The grace of our Lord Jesus Christ be with you.
 <verse eID="1Cor.1.18" />
 <verse sID="1Cor.1.19" osisID="1Cor.1.19" n="19" />For it is written: I will destroy the wisdom of the wise; and I will set aside the understanding of the prudent.
 <verse eID="1Cor.1.19" />
-<verse sID="1Cor.1.20" osisID="1Cor.1.20" n="20" />Where is the wise man? Where is the scribe? Where is the disputer of this age? Has not God made foolish the wisdom of- this world?
+<verse sID="1Cor.1.20" osisID="1Cor.1.20" n="20" />Where is the wise man? Where is the scribe? Where is the disputer of this age? Has not God made foolish the wisdom of this world?
 <verse eID="1Cor.1.20" />
 <verse sID="1Cor.1.21" osisID="1Cor.1.21" n="21" />For, since in the wisdom of God, the world, by its wisdom, knew not God, it has pleased God, through the foolishness of what is preached, to save those who believe.
 <verse eID="1Cor.1.21" />
@@ -13727,7 +13726,7 @@ The grace of our Lord Jesus Christ be with you.
 <!-- cl --><milestone type="x-chapterLabel" n="IX." />
 <p>
 <chapter sID="1Cor.9" osisID="1Cor.9" n="9" />
-<verse sID="1Cor.9.1" osisID="1Cor.9.1" n="1" />Am I not free? Am I not an apostle? Have I not seen Jesus Christ our Lord-? Are you not my work in the Lord?
+<verse sID="1Cor.9.1" osisID="1Cor.9.1" n="1" />Am I not free? Am I not an apostle? Have I not seen Jesus Christ our Lord? Are you not my work in the Lord?
 <verse eID="1Cor.9.1" />
 <verse sID="1Cor.9.2" osisID="1Cor.9.2" n="2" />If I am not an apostle to others, yet certainly I am to you; for the seal of my apostleship are you in the Lord.
 <verse eID="1Cor.9.2" />
@@ -13953,7 +13952,7 @@ The grace of our Lord Jesus Christ be with you.
 <verse eID="1Cor.11.31" />
 <verse sID="1Cor.11.32" osisID="1Cor.11.32" n="32" />but being judged, we are chastened by the Lord, that we may not be condemned with the world.
 <verse eID="1Cor.11.32" />
-<verse sID="1Cor.11.33" osisID="1Cor.11.33" n="33" />Wherefore, my brethren, when you come together to eat, wait for one an other:-
+<verse sID="1Cor.11.33" osisID="1Cor.11.33" n="33" />Wherefore, my brethren, when you come together to eat, wait for one another:
 <verse eID="1Cor.11.33" />
 <verse sID="1Cor.11.34" osisID="1Cor.11.34" n="34" />and if any one is hungry, let him eat at home, that you come not together for condemnation. But other things I will set in order when I come.
 <verse eID="1Cor.11.34" />
@@ -14447,7 +14446,7 @@ The grace of our Lord Jesus Christ be with you.
 <verse eID="2Cor.1.22" />
 <verse sID="2Cor.1.23" osisID="2Cor.1.23" n="23" />But I call on God as a witness against my soul, that wishing to spare you, I did not go to Corinth;
 <verse eID="2Cor.1.23" />
-<verse sID="2Cor.1.24" osisID="2Cor.1.24" n="24" />not that we are lords over your faith, but fellow- workers for your joy: for by faith you stand.
+<verse sID="2Cor.1.24" osisID="2Cor.1.24" n="24" />not that we are lords over your faith, but fellow-workers for your joy: for by faith you stand.
 <verse eID="2Cor.1.24" />
 <chapter eID="2Cor.1" />
 </p>
@@ -14584,8 +14583,10 @@ The grace of our Lord Jesus Christ be with you.
 <verse eID="2Cor.4.15" />
 <verse sID="2Cor.4.16" osisID="2Cor.4.16" n="16" />For this reason we faint not: but though our outward man perish, yet the inward man is renewed day by day.
 <verse eID="2Cor.4.16" />
-<verse sID="2Cor.4.17" osisID="2Cor.4.17" n="17" />For our present light affliction works out for us an eternal fullness of glory, excelling all excellence, ls while we look not at the things that are seen, but at the things that are not seen: for the things seen are temporal; but the things not seen are eternal.
+<verse sID="2Cor.4.17" osisID="2Cor.4.17" n="17" />For our present light affliction works out for us an eternal fullness of glory, excelling all excellence,
 <verse eID="2Cor.4.17" />
+<verse sID="2Cor.4.18" osisID="2Cor.4.18" n="18" />while we look not at the things that are seen, but at the things that are not seen: for the things seen are temporal; but the things not seen are eternal.
+<verse eID="2Cor.4.18" />
 <chapter eID="2Cor.4" />
 </p>
 <!-- cl --><milestone type="x-chapterLabel" n="V." />
@@ -14772,7 +14773,7 @@ The grace of our Lord Jesus Christ be with you.
 <verse eID="2Cor.8.17" />
 <verse sID="2Cor.8.18" osisID="2Cor.8.18" n="18" />And we have sent with him the brother whose praise in the gospel is in all the churches;
 <verse eID="2Cor.8.18" />
-<verse sID="2Cor.8.19" osisID="2Cor.8.19" n="19" />and who, moreover, was chosen by the -churches as our fellow-traveler with this gift, which is to be distributed by us to the glory of the Lord himself, and as a declaration of your readiness of mind;
+<verse sID="2Cor.8.19" osisID="2Cor.8.19" n="19" />and who, moreover, was chosen by the churches as our fellow-traveler with this gift, which is to be distributed by us to the glory of the Lord himself, and as a declaration of your readiness of mind;
 <verse eID="2Cor.8.19" />
 <verse sID="2Cor.8.20" osisID="2Cor.8.20" n="20" />being careful for this―that no one shall blame us in this abundance, which is ministered by us;
 <verse eID="2Cor.8.20" />
@@ -14895,7 +14896,7 @@ The grace of our Lord Jesus Christ be with you.
 <verse eID="2Cor.11.10" />
 <verse sID="2Cor.11.11" osisID="2Cor.11.11" n="11" />Why? Because I do not love you? God knows.
 <verse eID="2Cor.11.11" />
-<verse sID="2Cor.11.12" osisID="2Cor.11.12" n="12" />But what I am -doing I will also continue to do, that I may cut off occasion from those who desire an occasion, that in what they boast, they may be found even as we.
+<verse sID="2Cor.11.12" osisID="2Cor.11.12" n="12" />But what I am doing I will also continue to do, that I may cut off occasion from those who desire an occasion, that in what they boast, they may be found even as we.
 </p>
 <p>
 <verse eID="2Cor.11.12" />
@@ -14927,7 +14928,7 @@ The grace of our Lord Jesus Christ be with you.
 <verse eID="2Cor.11.23" />
 <verse sID="2Cor.11.24" osisID="2Cor.11.24" n="24" />From the Jews, five times I received forty stripes, save one;
 <verse eID="2Cor.11.24" />
-<verse sID="2Cor.11.25" osisID="2Cor.11.25" n="25" />three times I was beaten with rods; once I was stoned; three- times I have been shipwrecked; a night and a day I spent in the deep.
+<verse sID="2Cor.11.25" osisID="2Cor.11.25" n="25" />three times I was beaten with rods; once I was stoned; three times I have been shipwrecked; a night and a day I spent in the deep.
 <verse eID="2Cor.11.25" />
 <verse sID="2Cor.11.26" osisID="2Cor.11.26" n="26" />In journeying s often, in perils from rivers, in perils from robbers, in perils from my own race, in perils from the Gentiles, in perils in the city, in perils in the desert, in perils in the sea, in perils among false brethren;
 <verse eID="2Cor.11.26" />
@@ -15142,7 +15143,7 @@ The grace of our Lord Jesus Christ be with you.
 <verse eID="Gal.2.10" />
 <verse sID="Gal.2.11" osisID="Gal.2.11" n="11" />But when Peter came to Antioch, I openly opposed him, because he had incurred blame.
 <verse eID="Gal.2.11" />
-<verse sID="Gal.2.12" osisID="Gal.2.12" n="12" />For, before certain persons came from James, he ate- with the Gentiles: but, when they had come, he withdrew, and separated himself, because he feared those who were of the circumcision.
+<verse sID="Gal.2.12" osisID="Gal.2.12" n="12" />For, before certain persons came from James, he ate with the Gentiles: but, when they had come, he withdrew, and separated himself, because he feared those who were of the circumcision.
 <verse eID="Gal.2.12" />
 <verse sID="Gal.2.13" osisID="Gal.2.13" n="13" />And the other Jews, also, acted hypocritically with him, so that even Barnabas was led away by their hypocrisy.
 </p>
@@ -15264,7 +15265,7 @@ The grace of our Lord Jesus Christ be with you.
 <verse eID="Gal.4.8" />
 <verse sID="Gal.4.9" osisID="Gal.4.9" n="9" />now, however, after having known God, rather indeed having been known by God, how is it that you are turning back to the weak and beggarly rudiments, to which you desire again to be in bondage, as at first?
 <verse eID="Gal.4.9" />
-<verse sID="Gal.4.10" osisID="Gal.4.10" n="10" />You observe days and months and times and years. -
+<verse sID="Gal.4.10" osisID="Gal.4.10" n="10" />You observe days and months and times and years.
 <verse eID="Gal.4.10" />
 <verse sID="Gal.4.11" osisID="Gal.4.11" n="11" />fear for you, lest I have bestowed labor upon you in vain.
 </p>
@@ -15308,11 +15309,11 @@ The grace of our Lord Jesus Christ be with you.
 <verse eID="Gal.4.27" />
 <verse sID="Gal.4.28" osisID="Gal.4.28" n="28" />We, indeed, brethren, like Isaac, are children of promise.
 <verse eID="Gal.4.28" />
-<verse sID="Gal.4.29" osisID="Gal.4.29" n="29" />But as then, he that was born according to the flesh persecuted him that was born ac cording to the Spirit, so even now.
+<verse sID="Gal.4.29" osisID="Gal.4.29" n="29" />But as then, he that was born according to the flesh persecuted him that was born according to the Spirit, so even now.
 <verse eID="Gal.4.29" />
 <verse sID="Gal.4.30" osisID="Gal.4.30" n="30" />But what says the scripture? Cast out the bondwoman and her son; for the son of the bondwoman shall not be heir with the son of the free-woman.
 <verse eID="Gal.4.30" />
-<verse sID="Gal.4.31" osisID="Gal.4.31" n="31" />Therefore, brethren, we are not children of the bondwoman, but of the free- woman.
+<verse sID="Gal.4.31" osisID="Gal.4.31" n="31" />Therefore, brethren, we are not children of the bondwoman, but of the free-woman.
 <verse eID="Gal.4.31" />
 <chapter eID="Gal.4" />
 </p>
@@ -16132,7 +16133,7 @@ The grace of our Lord Jesus Christ be with you.
 <verse eID="Col.1.5" />
 <verse sID="Col.1.6" osisID="Col.1.6" n="6" />which is present among you, as it is also in all the world, and is producing fruit, even as it has been doing also among you, since the day you heard and knew the grace of God in truth,
 <verse eID="Col.1.6" />
-<verse sID="Col.1.7" osisID="Col.1.7" n="7" />as you learned from Epaphras, our dear fellowservant, who is a faithful servant of Christ for you,
+<verse sID="Col.1.7" osisID="Col.1.7" n="7" />as you learned from Epaphras, our dear fellow-servant, who is a faithful servant of Christ for you,
 <verse eID="Col.1.7" />
 <verse sID="Col.1.8" osisID="Col.1.8" n="8" />and who also made known to us your love in spirit.
 </p>
@@ -16205,7 +16206,7 @@ The grace of our Lord Jesus Christ be with you.
 </p>
 <p>
 <verse eID="Col.2.7" />
-<verse sID="Col.2.8" osisID="Col.2.8" n="8" />See that no one make you the victims of imposture by means of philosophy and vain deceit, according to the tradition of men, according to the rudiments of the world, and not ac cording to Christ:
+<verse sID="Col.2.8" osisID="Col.2.8" n="8" />See that no one make you the victims of imposture by means of philosophy and vain deceit, according to the tradition of men, according to the rudiments of the world, and not according to Christ:
 <verse eID="Col.2.8" />
 <verse sID="Col.2.9" osisID="Col.2.9" n="9" />for in him dwells all the fullness of the Godhood bodily.
 <verse eID="Col.2.9" />
@@ -16294,7 +16295,7 @@ The grace of our Lord Jesus Christ be with you.
 </p>
 <p>
 <verse eID="Col.3.19" />
-<verse sID="Col.3.20" osisID="Col.3.20" n="20" />Children, obey your parents in all things: for this is wellpleasing to the Lord.
+<verse sID="Col.3.20" osisID="Col.3.20" n="20" />Children, obey your parents in all things: for this is well-pleasing to the Lord.
 <verse eID="Col.3.20" />
 <verse sID="Col.3.21" osisID="Col.3.21" n="21" />Fathers, provoke not your children to anger, lest they be disheartened.
 </p>
@@ -17025,7 +17026,7 @@ The grace of our Lord Jesus Christ be with you.
 <verse eID="1Tim.6.14" />
 <verse sID="1Tim.6.15" osisID="1Tim.6.15" n="15" />which, in his own times, he will show, who is the blessed and only Potentate, the King of kings, and Lord of lords;
 <verse eID="1Tim.6.15" />
-<verse sID="1Tim.6.16" osisID="1Tim.6.16" n="16" />who alone has immortality, dwelling in light unapproachable, whom no man has seen, nor can see, tn whom be honor and power eternal. Amen.
+<verse sID="1Tim.6.16" osisID="1Tim.6.16" n="16" />who alone has immortality, dwelling in light unapproachable, whom no man has seen, nor can see, to whom be honor and power eternal. Amen.
 </p>
 <p>
 <verse eID="1Tim.6.16" />
@@ -17141,7 +17142,7 @@ The grace of our Lord Jesus Christ be with you.
 <verse eID="2Tim.2.15" />
 <verse sID="2Tim.2.16" osisID="2Tim.2.16" n="16" />But shun profane and vain babblings; for they will make further advance to ungodliness,
 <verse eID="2Tim.2.16" />
-<verse sID="2Tim.2.17" osisID="2Tim.2.17" n="17" />and their word will eat as a gangrene: of whom are Hymenaeus and Philetus,
+<verse sID="2Tim.2.17" osisID="2Tim.2.17" n="17" />and their word will eat as a gangrene: of whom are Hymenæus and Philetus,
 <verse eID="2Tim.2.17" />
 <verse sID="2Tim.2.18" osisID="2Tim.2.18" n="18" />who, as it respects the truth, have erred, saying that the resurrection has already taken place; and they overthrow the faith of some.
 </p>
@@ -17367,7 +17368,7 @@ The grace of our Lord Jesus Christ be with you.
 <verse eID="Titus.3.1" />
 <verse sID="Titus.3.2" osisID="Titus.3.2" n="2" />to revile no one, not to be contentious, but gentle, showing all meekness to all men.
 <verse eID="Titus.3.2" />
-<verse sID="Titus.3.3" osisID="Titus.3.3" n="3" />For we ourselves also were formerly foolish, disobedient, deceived, serving various desires and pleasures, living in malice and envy, hateful, and hating one an other.
+<verse sID="Titus.3.3" osisID="Titus.3.3" n="3" />For we ourselves also were formerly foolish, disobedient, deceived, serving various desires and pleasures, living in malice and envy, hateful, and hating one another.
 </p>
 <p>
 <verse eID="Titus.3.3" />
@@ -17635,7 +17636,7 @@ The grace of our Lord Jesus Christ be with you.
 <verse eID="Heb.4.11" />
 <verse sID="Heb.4.12" osisID="Heb.4.12" n="12" />For the word of God is living and powerful, and sharper than any two-edged sword, and pierces even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.
 <verse eID="Heb.4.12" />
-<verse sID="Heb.4.13" osisID="Heb.4.13" n="13" />And there is no creature which is not manifest in his sight: but all things are naked, and exposed to the eyes of him to whom we must give an ac count.
+<verse sID="Heb.4.13" osisID="Heb.4.13" n="13" />And there is no creature which is not manifest in his sight: but all things are naked, and exposed to the eyes of him to whom we must give an account.
 </p>
 <p>
 <verse eID="Heb.4.13" />
@@ -18597,7 +18598,7 @@ Grace be with you all. Amen.
 <verse eID="1Pet.1.6" />
 <verse sID="1Pet.1.7" osisID="1Pet.1.7" n="7" />that your faith, when proved, being much more precious than gold, which perishes though it be tried by fire, may be found to be for praise and honor and glory, at the revelation of Jesus Christ;
 <verse eID="1Pet.1.7" />
-<verse sID="1Pet.1.8" osisID="1Pet.1.8" n="8" />-whom, though you have not seen him, yet you love; on whom not now looking, but believing, you rejoice with joy unspeakable, and full of glory,
+<verse sID="1Pet.1.8" osisID="1Pet.1.8" n="8" />whom, though you have not seen him, yet you love; on whom not now looking, but believing, you rejoice with joy unspeakable, and full of glory,
 <verse eID="1Pet.1.8" />
 <verse sID="1Pet.1.9" osisID="1Pet.1.9" n="9" />receiving the end of your faith, the salvation of your souls.
 </p>
@@ -18690,7 +18691,7 @@ Grace be with you all. Amen.
 <verse eID="1Pet.2.18" />
 <verse sID="1Pet.2.19" osisID="1Pet.2.19" n="19" />For this is praiseworthy, if any one, on account of conscience toward God, endure sorrows, suffering unjustly.
 <verse eID="1Pet.2.19" />
-<verse sID="1Pet.2.20" osisID="1Pet.2.20" n="20" />For what praise is due, if, when you are punished for your faults, you endure it patiently? But if, when you do well, and suffer for it, you endure it patiently, this is praiseworthy in the- sight of God.
+<verse sID="1Pet.2.20" osisID="1Pet.2.20" n="20" />For what praise is due, if, when you are punished for your faults, you endure it patiently? But if, when you do well, and suffer for it, you endure it patiently, this is praiseworthy in the sight of God.
 <verse eID="1Pet.2.20" />
 <verse sID="1Pet.2.21" osisID="1Pet.2.21" n="21" />To this, indeed, you have been called; because even Christ suffered for us, leaving you an example, that you should follow his footsteps.
 <verse eID="1Pet.2.21" />
@@ -18751,7 +18752,7 @@ Grace be with you all. Amen.
 <verse eID="1Pet.3.17" />
 <verse sID="1Pet.3.18" osisID="1Pet.3.18" n="18" />For Christ also once suffered for sins, the Just for the unjust, that he might bring us to God, having been put to death in flesh, but made alive in spirit;
 <verse eID="1Pet.3.18" />
-<verse sID="1Pet.3.19" osisID="1Pet.3.19" n="19" />in which- also he went and preached to the spirits in prison,
+<verse sID="1Pet.3.19" osisID="1Pet.3.19" n="19" />in which also he went and preached to the spirits in prison,
 <verse eID="1Pet.3.19" />
 <verse sID="1Pet.3.20" osisID="1Pet.3.20" n="20" />who formerly were disobedient, when the long-suffering of God waited in the days of Noah, while an ark was preparing, in which few, that is, eight souls, were brought in safety through the water;
 <verse eID="1Pet.3.20" />
@@ -19941,7 +19942,7 @@ Thou art worthy to take the book, and to open its seals: for thou wast slain, an
 <verse eID="Rev.11.2" />
 <verse sID="Rev.11.3" osisID="Rev.11.3" n="3" />And I will give to my two witnesses, that they may prophesy a thousand two hundred and sixty days, clothed in sackcloth.
 <verse eID="Rev.11.3" />
-<verse sID="Rev.11.4" osisID="Rev.11.4" n="4" />These are the two olive trees, and the two lamps that stand before the -Lord of the earth.
+<verse sID="Rev.11.4" osisID="Rev.11.4" n="4" />These are the two olive trees, and the two lamps that stand before the Lord of the earth.
 <verse eID="Rev.11.4" />
 <verse sID="Rev.11.5" osisID="Rev.11.5" n="5" />And if any man will injure them, fire proceeds out of their mouth, and devours their enemies; and if any one will injure them, he must be killed in this way.
 <verse eID="Rev.11.5" />
@@ -19959,7 +19960,7 @@ Thou art worthy to take the book, and to open its seals: for thou wast slain, an
 </p>
 <p>
 <verse eID="Rev.11.10" />
-<verse sID="Rev.11.11" osisID="Rev.11.11" n="11" />And after the three days and a half, the spirit of life from God entered into them, and they stood- upon their feet; and great fear fell upon those who saw them.
+<verse sID="Rev.11.11" osisID="Rev.11.11" n="11" />And after the three days and a half, the spirit of life from God entered into them, and they stood upon their feet; and great fear fell upon those who saw them.
 <verse eID="Rev.11.11" />
 <verse sID="Rev.11.12" osisID="Rev.11.12" n="12" />And they heard a great voice from heaven, saying to them: Come up hither. And they went up into heaven in a cloud, and their enemies beheld them.
 <verse eID="Rev.11.12" />
@@ -20542,7 +20543,7 @@ Thou art worthy to take the book, and to open its seals: for thou wast slain, an
 <verse eID="Rev.22.15" />
 <verse sID="Rev.22.16" osisID="Rev.22.16" n="16" />I, Jesus, have sent my angel to testify these things to you for the churches. I am the root and the offspring of David, the bright, morning star.
 <verse eID="Rev.22.16" />
-<verse sID="Rev.22.17" osisID="Rev.22.17" n="17" />And the Spirit and the bride say, Come; and let him that hears, say, Come; and let him that is thirsty, come; -and let him that is willing, take the water of life freely.
+<verse sID="Rev.22.17" osisID="Rev.22.17" n="17" />And the Spirit and the bride say, Come; and let him that hears, say, Come; and let him that is thirsty, come; and let him that is willing, take the water of life freely.
 </p>
 <p>
 <verse eID="Rev.22.17" />
