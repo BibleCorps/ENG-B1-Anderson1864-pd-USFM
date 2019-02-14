@@ -6,7 +6,7 @@
     <osisText osisIDWork="NT.Anderson" osisRefWork="Bible" xml:lang="und">
         <header>
             <revisionDesc resp="David">
-                <date>2019.02.14T16.54.35</date>
+                <date>2019.02.14T19.21.21</date>
                 <p>Converted from USFM source using u2o.py</p>
             </revisionDesc>
             <work osisWork="NT.Anderson">
@@ -68,7 +68,7 @@
 <description type="usfm" subType="x-rem">Version 2019-02-01</description>
 <description type="usfm" subType="x-id">1TI ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-12</description>
+<description type="usfm" subType="x-rem">Version 2019-02-14</description>
 <description type="usfm" subType="x-id">2TI ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
 <description type="usfm" subType="x-rem">Version 2019-02-10</description>
@@ -7814,7 +7814,7 @@ Jesus said to her: You have well said. I have no husband;
 <chapter sID="John.5" osisID="John.5" n="5" />
 <verse sID="John.5.1" osisID="John.5.1" n="1" />After this was the feast of the Jews; and Jesus went up to Jerusalem.
 <verse eID="John.5.1" />
-<verse sID="John.5.2" osisID="John.5.2" n="2" />Now there is in Jerusalem, near the sheepgate, a pool, called, in the Hebrew tongue, Bethesda, with five porches.
+<verse sID="John.5.2" osisID="John.5.2" n="2" />Now there is in Jerusalem, near the sheep-gate, a pool, called, in the Hebrew tongue, Bethesda, with five porches.
 <verse eID="John.5.2" />
 <verse sID="John.5.3" osisID="John.5.3" n="3" />In these lay a great multitude of sick persons, blind, lame, withered, who waited for the moving of the water.
 <verse eID="John.5.3" />
@@ -16896,7 +16896,7 @@ The grace of our Lord Jesus Christ be with you.
 <verse eID="1Tim.4.5" />
 <verse sID="1Tim.4.6" osisID="1Tim.4.6" n="6" />By recommending these things to the attention of the brethren, you will be a good minister of Jesus Christ, being nourished with the words of the faith, and of good teaching, which you have fully known.
 <verse eID="1Tim.4.6" />
-<verse sID="1Tim.4.7" osisID="1Tim.4.7" n="7" />But reject those profane and oldwomanish fables, and exercise yourself for godliness.
+<verse sID="1Tim.4.7" osisID="1Tim.4.7" n="7" />But reject those profane and old-womanish fables, and exercise yourself for godliness.
 <verse eID="1Tim.4.7" />
 <verse sID="1Tim.4.8" osisID="1Tim.4.8" n="8" />For the exercise of the body is profitable for little; but godliness is profitable for all things, and has the promise of the life that now is, and also of that which is to come.
 <verse eID="1Tim.4.8" />
