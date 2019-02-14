@@ -4035,10 +4035,10 @@
 00012	oil
 00014	ointment
 00040	old
+00001	old-womanish
 00001	older
 00001	oldest
 00001	oldness
-00001	oldwomanish
 00005	olive
 00001	olive-tree
 00001	olives
@@ -5290,9 +5290,9 @@
 00001	shedding
 00001	sheds
 00041	sheep
+00001	sheep-gate
 00001	sheep-skins
 00001	sheepfold
-00001	sheepgate
 00002	sheet
 00001	Shem
 00016	shepherd
