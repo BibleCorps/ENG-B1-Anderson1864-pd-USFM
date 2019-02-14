@@ -6,7 +6,7 @@
     <osisText osisIDWork="NT.Anderson" osisRefWork="Bible" xml:lang="und">
         <header>
             <revisionDesc resp="David">
-                <date>2019.02.13T17.57.48</date>
+                <date>2019.02.14T13.06.11</date>
                 <p>Converted from USFM source using u2o.py</p>
             </revisionDesc>
             <work osisWork="NT.Anderson">
@@ -45,7 +45,7 @@
 <description type="usfm" subType="x-rem">Version 2019-02-13</description>
 <description type="usfm" subType="x-id">2CO ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-12</description>
+<description type="usfm" subType="x-rem">Version 2019-02-14</description>
 <description type="usfm" subType="x-rem">2Cor 13:14 was not included in the 1866 printing. The text is part of verse 13.</description>
 <description type="usfm" subType="x-id">GAL ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
@@ -14573,7 +14573,7 @@ The grace of our Lord Jesus Christ be with you.
 <verse eID="2Cor.4.11" />
 <verse sID="2Cor.4.12" osisID="2Cor.4.12" n="12" />So, then, death is active in us, but life in you.
 <verse eID="2Cor.4.12" />
-<verse sID="2Cor.4.13" osisID="2Cor.4.13" n="13" />But, having the same spirit of faith, according to that winch is written, I believed, and for this reason I have spoken; we also believe, and for this reason we speak,
+<verse sID="2Cor.4.13" osisID="2Cor.4.13" n="13" />But, having the same spirit of faith, according to that which is written, I believed, and for this reason I have spoken; we also believe, and for this reason we speak,
 <verse eID="2Cor.4.13" />
 <verse sID="2Cor.4.14" osisID="2Cor.4.14" n="14" />knowing that he who raised up the Lord Jesus will raise us up also by Jesus, and present us together with you.
 <verse eID="2Cor.4.14" />
