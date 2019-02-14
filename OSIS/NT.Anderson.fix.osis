@@ -6,7 +6,7 @@
     <osisText osisIDWork="NT.Anderson" osisRefWork="Bible" xml:lang="und">
         <header>
             <revisionDesc resp="David">
-                <date>2019.02.14T13.06.11</date>
+                <date>2019.02.14T16.54.35</date>
                 <p>Converted from USFM source using u2o.py</p>
             </revisionDesc>
             <work osisWork="NT.Anderson">
@@ -20,20 +20,20 @@
 <description type="usfm" subType="x-rem">Version 20170711</description>
 <description type="usfm" subType="x-id">MAT ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-12</description>
+<description type="usfm" subType="x-rem">Version 2019-02-14</description>
 <description type="usfm" subType="x-rem">Mat 19:30 was not included in the 1866 printing. The text is part of verse 29.</description>
 <description type="usfm" subType="x-id">MRK ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
 <description type="usfm" subType="x-rem">Version 2019-02-12</description>
 <description type="usfm" subType="x-id">LUK ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-13</description>
+<description type="usfm" subType="x-rem">Version 2019-02-14</description>
 <description type="usfm" subType="x-id">JHN ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-13</description>
+<description type="usfm" subType="x-rem">Version 2019-02-14</description>
 <description type="usfm" subType="x-id">ACT ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-12</description>
+<description type="usfm" subType="x-rem">Version 2019-02-14</description>
 <description type="usfm" subType="x-rem">Acts 8:37 was not included in the 1866 printing. No footnote either!</description>
 <description type="usfm" subType="x-rem">Verse 35 was not included in the 1866 printing. The text is part of verse 34.</description>
 <description type="usfm" subType="x-id">ROM ENG | Anderson New Testament 1864 Public Domain</description>
@@ -109,7 +109,7 @@
 <description type="usfm" subType="x-rem">Jude 1:25 was not included in the 1866 printing. The text is part of verse 24.</description>
 <description type="usfm" subType="x-id">REV ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-12</description>
+<description type="usfm" subType="x-rem">Version 2019-02-14</description>
 <description type="usfm" subType="x-rem">Rev 4:11 was not included in the 1866 printing. The text is part of verse 10.</description>
 <description type="usfm" subType="x-id">GLO ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
@@ -1775,7 +1775,7 @@ The work has been carried on under many adverse circumstances; but, by the good 
 <verse eID="Matt.19.27" />
 <verse sID="Matt.19.28" osisID="Matt.19.28" n="28" />Jesus said to them: Verily I say to you, That, in the restoration, when the Son of man shall sit on his glorious throne, you also who have followed me shall sit on twelve thrones, judging the twelve tribes of Israel.
 <verse eID="Matt.19.28" />
-<verse sID="Matt.19.29" osisID="Matt.19.29" n="29" />And every one that has left houses, or brothers, or sisters, or father, or mother, or wife, or children, or lands, for my name’s sake, shall receive a hundredfold, and shall inherit eternal life. But many that are first shall be last; and the last first.
+<verse sID="Matt.19.29" osisID="Matt.19.29" n="29" />And every one that has left houses, or brothers, or sisters, or father, or mother, or wife, or children, or lands, for my name’s sake, shall receive a hundred-fold, and shall inherit eternal life. But many that are first shall be last; and the last first.
 <verse eID="Matt.19.29" />
 <chapter eID="Matt.19" />
 </p>
@@ -6379,7 +6379,7 @@ Then the master of the house was angry, and said to his servant, Go out quickly 
 <verse eID="Luke.16.21" />
 <verse sID="Luke.16.22" osisID="Luke.16.22" n="22" />And it came to pass, that the poor man died, and was carried by angels to Abraham’s bosom. The rich man also died, and was buried;
 <verse eID="Luke.16.22" />
-<verse sID="Luke.16.23" osisID="Luke.16.23" n="23" />and in hades he lifted up his eyes, being in torments, and saw Abraham afar off, and Lazarus iii his bosom.
+<verse sID="Luke.16.23" osisID="Luke.16.23" n="23" />and in hades he lifted up his eyes, being in torments, and saw Abraham afar off, and Lazarus in his bosom.
 </p>
 <p>
 <verse eID="Luke.16.23" />
@@ -9338,7 +9338,7 @@ And when he had said this, he again came out to the Jews, and said to them: I fi
 <verse eID="John.19.3" />
 <verse sID="John.19.4" osisID="John.19.4" n="4" />Then Pilate came out again, and said to them: Behold, I bring him out to you, that you may know that I find no fault in him.
 <verse eID="John.19.4" />
-<verse sID="John.19.5" osisID="John.19.5" n="5" />Then Jesus came out, wearing the crown of thorn branches, and the purple robe. And Pilate said to them: Be hold the man!
+<verse sID="John.19.5" osisID="John.19.5" n="5" />Then Jesus came out, wearing the crown of thorn-branches, and the purple robe. And Pilate said to them: Be hold the man!
 <verse eID="John.19.5" />
 <verse sID="John.19.6" osisID="John.19.6" n="6" />When the chief priests and their attendants saw him, they cried out, saying: Crucify him, crucify him. Pilate said to them: Do you take him and crucify him; for I find no fault in him.
 <verse eID="John.19.6" />
@@ -10459,7 +10459,7 @@ And he was with the disciples in Damascus for some days;
 </p>
 <p>
 <verse eID="Acts.10.8" />
-<verse sID="Acts.10.9" osisID="Acts.10.9" n="9" />And on the morrow, as they were going on their journey, and were drawing near to the city, Peter went up on the housetop to pray, about the sixth hour.
+<verse sID="Acts.10.9" osisID="Acts.10.9" n="9" />And on the morrow, as they were going on their journey, and were drawing near to the city, Peter went up on the house-top to pray, about the sixth hour.
 <verse eID="Acts.10.9" />
 <verse sID="Acts.10.10" osisID="Acts.10.10" n="10" />And he became very hungry, and desired to eat; but while they were making ready, he fell into a trance;
 <verse eID="Acts.10.10" />
@@ -10670,7 +10670,7 @@ On the morrow he arose, and went with them; and some of the brethren from Joppa 
 <verse eID="Acts.12.11" />
 <verse sID="Acts.12.12" osisID="Acts.12.12" n="12" />And being aware of his condition, he came to the house of Mary the mother of John, who is surnamed Mark, where many had met together, and were praying.
 <verse eID="Acts.12.12" />
-<verse sID="Acts.12.13" osisID="Acts.12.13" n="13" />And when he knocked at the door of the entrance, a maidservant, named Rhoda, came to listen.
+<verse sID="Acts.12.13" osisID="Acts.12.13" n="13" />And when he knocked at the door of the entrance, a maid-servant, named Rhoda, came to listen.
 <verse eID="Acts.12.13" />
 <verse sID="Acts.12.14" osisID="Acts.12.14" n="14" />And recognizing Peter’s voice, she did not open the entrance for joy, but ran in and told that Peter was standing before the entrance.
 <verse eID="Acts.12.14" />
@@ -11206,7 +11206,7 @@ The apostles, and the elders, and the brethren, to the brethren of the Gentiles 
 <verse eID="Acts.18.3" />
 <verse sID="Acts.18.4" osisID="Acts.18.4" n="4" />But on every sabbath, he reasoned in the synagogue, and persuaded the Jews and the Greeks.
 <verse eID="Acts.18.4" />
-<verse sID="Acts.18.5" osisID="Acts.18.5" n="5" />And when Silas and Timothy came from Macedonia, Paul was roused in spirit, and earnestly testified to the Jews, that-the Christ was Jesus.
+<verse sID="Acts.18.5" osisID="Acts.18.5" n="5" />And when Silas and Timothy came from Macedonia, Paul was roused in spirit, and earnestly testified to the Jews, that the Christ was Jesus.
 </p>
 <p>
 <verse eID="Acts.18.5" />
@@ -19463,7 +19463,7 @@ Grace be with you all. Amen.
 <verse eID="Rev.1.3" />
 <verse sID="Rev.1.4" osisID="Rev.1.4" n="4" />John to the seven churches that are in Asia, grace be to you and peace from him who is, and who was, and who is to come; and from the seven spirits which are before his throne;
 <verse eID="Rev.1.4" />
-<verse sID="Rev.1.5" osisID="Rev.1.5" n="5" />and from Jesus Christ, who is the faithful witness, the firstborn from the dead, and the Prince of the kings of the earth. To him that loves us, and that has washed us from our sins in his own blood,
+<verse sID="Rev.1.5" osisID="Rev.1.5" n="5" />and from Jesus Christ, who is the faithful witness, the first-born from the dead, and the Prince of the kings of the earth. To him that loves us, and that has washed us from our sins in his own blood,
 <verse eID="Rev.1.5" />
 <verse sID="Rev.1.6" osisID="Rev.1.6" n="6" />and has made us a kingdom, priests to his God and Father; to him be glory and might from age to age. Amen.
 </p>
@@ -20101,7 +20101,7 @@ Thou art worthy to take the book, and to open its seals: for thou wast slain, an
 </p>
 <p>
 <verse eID="Rev.14.8" />
-<verse sID="Rev.14.9" osisID="Rev.14.9" n="9" />And the third angel followed them, saying, with a loud voice: If any one worship the beast and his image, and receive his mark in his forehead, or on his hand, even he shall drink of the wine of the wrath of God, which is prepared without mixture in the cup of his indignation;-
+<verse sID="Rev.14.9" osisID="Rev.14.9" n="9" />And the third angel followed them, saying, with a loud voice: If any one worship the beast and his image, and receive his mark in his forehead, or on his hand, even he shall drink of the wine of the wrath of God, which is prepared without mixture in the cup of his indignation;
 <verse eID="Rev.14.9" />
 <verse sID="Rev.14.10" osisID="Rev.14.10" n="10" />and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb:
 <verse eID="Rev.14.10" />
