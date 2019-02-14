@@ -11,7 +11,6 @@
 00048	A
 00002	Æneas
 00001	Ænon
-00001	-
 00005	Aaron
 00001	Abaddon
 00003	Abba
@@ -741,7 +740,7 @@
 00004	box
 00001	brambles
 00006	branch
-00016	branches
+00015	branches
 00006	brass
 00001	brazen
 00079	bread
@@ -2282,10 +2281,9 @@
 00170	first
 00011	First
 00001	first-begotten
-00009	first-born
+00010	first-born
 00001	first-fruit
 00004	first-fruits
-00001	firstborn
 00009	fish
 00001	fishermen
 00004	fishers
@@ -2895,11 +2893,10 @@
 00093	hour
 00003	hours
 00219	house
-00003	house-top
+00004	house-top
 00002	house-tops
 00012	household
 00015	houses
-00001	housetop
 00130	how
 00044	How
 00008	however
@@ -2914,8 +2911,7 @@
 00002	humiliation
 00003	humility
 00035	hundred
-00002	hundred-fold
-00001	hundredfold
+00003	hundred-fold
 00001	hundreds
 00004	hung
 00007	hunger
@@ -2958,7 +2954,6 @@
 00014	ignorant
 00002	ignorantly
 00001	II
-00001	iii
 00001	III
 00001	ill
 00001	illustrate
@@ -2999,7 +2994,7 @@
 00002	improper
 00001	impure
 00001	impurities
-03147	in
+03148	in
 00057	In
 00009	inasmuch
 00003	Inasmuch
@@ -3592,11 +3587,10 @@
 00001	Magog
 00001	Mahalaleel
 00001	maid
-00006	maid-servant
+00007	maid-servant
 00001	maid-servants
 00006	maiden
 00001	Maiden
-00001	maidservant
 00001	maidservants
 00006	maimed
 00001	Mainan
@@ -5897,10 +5891,9 @@
 00001	Thanks
 00008	thanksgiving
 00001	thanksgivings
-03545	that
+03546	that
 00046	That
-00001	that-the
-11056	the
+11057	the
 00240	The
 00016	THE
 00002	theater
@@ -5956,8 +5949,8 @@
 00002	tho
 00002	Tho
 00011	Thomas
-00005	thorn
-00001	thorn-branches
+00004	thorn
+00002	thorn-branches
 00012	thorns
 00003	thoroughly
 00502	those
