@@ -6490,7 +6490,7 @@
 00002	Wherever
 00039	whether
 00004	Whether
-00887	which
+00888	which
 00017	Which
 00126	while
 00024	While
@@ -6540,7 +6540,6 @@
 00004	willingly
 00004	wills
 00010	wilt
-00001	winch
 00029	wind
 00002	window
 00011	winds
