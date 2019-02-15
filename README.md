@@ -29,7 +29,6 @@ The translator was **[Henry Tompkins Anderson](http://www.therestorationmovement
 * [CrossWire Bible Society](http://crosswire.org/) distributes a SWORD module for the Anderson NT.
 * This needs to be replaced by one made from this more accurate digital text.
 * An updated conf file has been provided as well as a freshly derived OSIS file.
-* The glossary words have not been marked where they occur in the SFM text.
 
 #### OSIS
 The OSIS XML file was made by the following two steps.
@@ -49,7 +48,9 @@ The OSIS XML file was made by the following two steps.
 * The printed work included a **Dedication and Preface** after the original copyright page.
 
 ## Glossary
-* There is a very short **word glossary** after the end of Revelation.
+* There is a very short word **glossary** after the end of Revelation.
+* The glossary words have also been marked using `\w ...|KEY\w*` where they occur in the SFM verse text.
+
 ```
 DENARIUS.―The earlier = 8½ d. , 17 cents: the later = 7½ d., 15 cents. 
 
@@ -62,7 +63,7 @@ YOD, is the name of the smallest letter of the Hebrew alphabet.
 PEDAGOGUE, (Gal. 3:24) was a servant that led the children of his master to school. The literal meaning of the word is, “a leader of children.” The pedagogue did not teach, but conducted his master’s children to the schoolmaster. 
 ```
 * SWORD currently includes this as part of **Rev.22.21** - before the end main title.
-* _An improvement is needed for how to encode this better_.
+* _It's rather small to have as a separate dictionary module_.
 
 ## Book titles
 * The book titles in the printed work were in upper case.

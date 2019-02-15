@@ -3,10 +3,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
         z:/osisCore.2.1.1.xsd"><!-- http://www.bibletechnologies.net/osisCore.2.1.1.xsd -->
-    <osisText osisIDWork="NT.Anderson" osisRefWork="Bible" xml:lang="und">
+    <osisText osisIDWork="NT.Anderson" osisRefWork="Bible" xml:lang="en">
         <header>
             <revisionDesc resp="David">
-                <date>2019.02.14T19.21.21</date>
+                <date>2019.02.14T21.29.13</date>
                 <p>Converted from USFM source using u2o.py</p>
             </revisionDesc>
             <work osisWork="NT.Anderson">
@@ -24,7 +24,7 @@
 <description type="usfm" subType="x-rem">Mat 19:30 was not included in the 1866 printing. The text is part of verse 29.</description>
 <description type="usfm" subType="x-id">MRK ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-12</description>
+<description type="usfm" subType="x-rem">Version 2019-02-14</description>
 <description type="usfm" subType="x-id">LUK ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
 <description type="usfm" subType="x-rem">Version 2019-02-14</description>
@@ -49,7 +49,7 @@
 <description type="usfm" subType="x-rem">2Cor 13:14 was not included in the 1866 printing. The text is part of verse 13.</description>
 <description type="usfm" subType="x-id">GAL ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-13</description>
+<description type="usfm" subType="x-rem">Version 2019-02-14</description>
 <description type="usfm" subType="x-id">EPH ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
 <description type="usfm" subType="x-rem">Version 2019-02-03</description>
@@ -439,7 +439,7 @@ The work has been carried on under many adverse circumstances; but, by the good 
 <verse eID="Matt.5.16" />
 <verse sID="Matt.5.17" osisID="Matt.5.17" n="17" />Think not that I have come to make the law or the prophets of no effect. I have not come to make them of no effect, but to give them their full efficiency.
 <verse eID="Matt.5.17" />
-<verse sID="Matt.5.18" osisID="Matt.5.18" n="18" />For verily I say to you, Till heaven and earth pass away, one yod or one point shall in no way pass from the law till all be fulfilled.
+<verse sID="Matt.5.18" osisID="Matt.5.18" n="18" />For verily I say to you, Till heaven and earth pass away, one yod<index index="Glossary" level1="YOD" /> or one point shall in no way pass from the law till all be fulfilled.
 <verse eID="Matt.5.18" />
 <verse sID="Matt.5.19" osisID="Matt.5.19" n="19" />Whoever, therefore, shall make void one of the least of these commandments, and shall teach men so, shall be called least in the kingdom of heaven. But whoever shall do and teach, he shall be called great in the kingdom of heaven.
 <verse eID="Matt.5.19" />
@@ -1605,13 +1605,13 @@ The work has been carried on under many adverse circumstances; but, by the good 
 </p>
 <p>
 <verse eID="Matt.17.23" />
-<verse sID="Matt.17.24" osisID="Matt.17.24" n="24" />And when they had come into Capernaum, those who collected the didrachma came to Peter, and said: Does not your teacher pay the didrachma?
+<verse sID="Matt.17.24" osisID="Matt.17.24" n="24" />And when they had come into Capernaum, those who collected the didrachma<index index="Glossary" level1="DIDRACHMA" /> came to Peter, and said: Does not your teacher pay the didrachma<index index="Glossary" level1="DIDRACHMA" />?
 <verse eID="Matt.17.24" />
 <verse sID="Matt.17.25" osisID="Matt.17.25" n="25" />He said: Yes. And when he had come into the house, before he had spoken, Jesus said to him: What think you, Simon? From whom do the kings of the earth collect tax or tribute? From their own sons, or from the sons of others?
 <verse eID="Matt.17.25" />
 <verse sID="Matt.17.26" osisID="Matt.17.26" n="26" />Peter said to him: From the sons of others. Jesus said to him: Then are their own sons free.
 <verse eID="Matt.17.26" />
-<verse sID="Matt.17.27" osisID="Matt.17.27" n="27" />But that we may give them no offense, go to the sea, and throw in a hook, and take the fish that comes up first; and when you have opened his mouth, you will find a stater; take that, and give to them for me and you.
+<verse sID="Matt.17.27" osisID="Matt.17.27" n="27" />But that we may give them no offense, go to the sea, and throw in a hook, and take the fish that comes up first; and when you have opened his mouth, you will find a stater<index index="Glossary" level1="STATER" />; take that, and give to them for me and you.
 <verse eID="Matt.17.27" />
 <chapter eID="Matt.17" />
 </p>
@@ -1684,7 +1684,7 @@ The work has been carried on under many adverse circumstances; but, by the good 
 </p>
 <p>
 <verse eID="Matt.18.27" />
-<verse sID="Matt.18.28" osisID="Matt.18.28" n="28" />But that servant went out, and found one of his fellow-servants, who owed him a hundred denarii; and he laid hold of him, and took him by the throat, saying: Pay me what you owe.
+<verse sID="Matt.18.28" osisID="Matt.18.28" n="28" />But that servant went out, and found one of his fellow-servants, who owed him a hundred denarii<index index="Glossary" level1="DENARIUS" />; and he laid hold of him, and took him by the throat, saying: Pay me what you owe.
 <verse eID="Matt.18.28" />
 <verse sID="Matt.18.29" osisID="Matt.18.29" n="29" />Then his fellow-servant fell down at his feet, and besought him, saying: Have patience with me, and I will pay you all.
 <verse eID="Matt.18.29" />
@@ -1784,7 +1784,7 @@ The work has been carried on under many adverse circumstances; but, by the good 
 <chapter sID="Matt.20" osisID="Matt.20" n="20" />
 <verse sID="Matt.20.1" osisID="Matt.20.1" n="1" />For the kingdom of heaven is like the master of a house, who went out early in the morning to hire laborers for his vineyard.
 <verse eID="Matt.20.1" />
-<verse sID="Matt.20.2" osisID="Matt.20.2" n="2" />And when he had agreed with the laborers for a denarius a day, he sent them into his vineyard.
+<verse sID="Matt.20.2" osisID="Matt.20.2" n="2" />And when he had agreed with the laborers for a denarius<index index="Glossary" level1="DENARIUS" /> a day, he sent them into his vineyard.
 <verse eID="Matt.20.2" />
 <verse sID="Matt.20.3" osisID="Matt.20.3" n="3" />And he went out about the third hour, and saw others standing in the market, idle;
 <verse eID="Matt.20.3" />
@@ -1800,15 +1800,15 @@ The work has been carried on under many adverse circumstances; but, by the good 
 <verse eID="Matt.20.7" />
 <verse sID="Matt.20.8" osisID="Matt.20.8" n="8" />When the evening came, the owner of the vineyard said to his steward: Call the laborers, and, beginning with the last, pay them their hire even to the first.
 <verse eID="Matt.20.8" />
-<verse sID="Matt.20.9" osisID="Matt.20.9" n="9" />And when those came who had been hired about the eleventh hour, they received each one a denarius.
+<verse sID="Matt.20.9" osisID="Matt.20.9" n="9" />And when those came who had been hired about the eleventh hour, they received each one a denarius<index index="Glossary" level1="DENARIUS" />.
 <verse eID="Matt.20.9" />
-<verse sID="Matt.20.10" osisID="Matt.20.10" n="10" />But when those came who had been hired first, they thought that they would receive more; and they received each one a denarius.
+<verse sID="Matt.20.10" osisID="Matt.20.10" n="10" />But when those came who had been hired first, they thought that they would receive more; and they received each one a denarius<index index="Glossary" level1="DENARIUS" />.
 <verse eID="Matt.20.10" />
 <verse sID="Matt.20.11" osisID="Matt.20.11" n="11" />And when they received it, they murmured against the master of the house,
 <verse eID="Matt.20.11" />
 <verse sID="Matt.20.12" osisID="Matt.20.12" n="12" />saying: These last have worked one hour, and you have made them equal to us, who have borne the burden of the day, and the heat.
 <verse eID="Matt.20.12" />
-<verse sID="Matt.20.13" osisID="Matt.20.13" n="13" />But he answered and said to one of them: Friend, I do you no injustice; did you not agree with me for a denarius?
+<verse sID="Matt.20.13" osisID="Matt.20.13" n="13" />But he answered and said to one of them: Friend, I do you no injustice; did you not agree with me for a denarius<index index="Glossary" level1="DENARIUS" />?
 <verse eID="Matt.20.13" />
 <verse sID="Matt.20.14" osisID="Matt.20.14" n="14" />Take what is yours, and go; I will give to this last even as to you.
 <verse eID="Matt.20.14" />
@@ -2020,7 +2020,7 @@ The work has been carried on under many adverse circumstances; but, by the good 
 <verse eID="Matt.22.17" />
 <verse sID="Matt.22.18" osisID="Matt.22.18" n="18" />But Jesus, knowing their wickedness, said to them: Why do you tempt me, hypocrites?
 <verse eID="Matt.22.18" />
-<verse sID="Matt.22.19" osisID="Matt.22.19" n="19" />Show me the tribute-money. And they brought him a denarius.
+<verse sID="Matt.22.19" osisID="Matt.22.19" n="19" />Show me the tribute-money. And they brought him a denarius<index index="Glossary" level1="DENARIUS" />.
 <verse eID="Matt.22.19" />
 <verse sID="Matt.22.20" osisID="Matt.22.20" n="20" />And he said to them: Whose image and superscription is this?
 <verse eID="Matt.22.20" />
@@ -3386,7 +3386,7 @@ And he went to the villages round about, and taught.
 <verse eID="Mark.6.35" />
 <verse sID="Mark.6.36" osisID="Mark.6.36" n="36" />send them away, that they may go into the country and the villages round about, and buy bread for themselves: for they have nothing to eat.
 <verse eID="Mark.6.36" />
-<verse sID="Mark.6.37" osisID="Mark.6.37" n="37" />He answered and said to them: Do you give them food. And they said to him: Shall we go and buy two hundred denarii worth of bread, and give them food?
+<verse sID="Mark.6.37" osisID="Mark.6.37" n="37" />He answered and said to them: Do you give them food. And they said to him: Shall we go and buy two hundred denarii<index index="Glossary" level1="DENARIUS" /> worth of bread, and give them food?
 <verse eID="Mark.6.37" />
 <verse sID="Mark.6.38" osisID="Mark.6.38" n="38" />He said to them: How many loaves have you? Go and see. And when they had learned, they said: Five, and two fishes.
 <verse eID="Mark.6.38" />
@@ -3986,7 +3986,7 @@ And he went to the villages round about, and taught.
 <verse eID="Mark.12.13" />
 <verse sID="Mark.12.14" osisID="Mark.12.14" n="14" />And they came and said to him: Teacher, we know that you are true, and that you care for no one; for you do not regard the person of men, but teach the way of God in truth. Is it lawful to give tribute to Cæsar, or not?
 <verse eID="Mark.12.14" />
-<verse sID="Mark.12.15" osisID="Mark.12.15" n="15" />Must we give, or must we not give? But, knowing their hypocrisy, he said to them: Why do you tempt me? Bring me a denarius, that I may see it.
+<verse sID="Mark.12.15" osisID="Mark.12.15" n="15" />Must we give, or must we not give? But, knowing their hypocrisy, he said to them: Why do you tempt me? Bring me a denarius<index index="Glossary" level1="DENARIUS" />, that I may see it.
 <verse eID="Mark.12.15" />
 <verse sID="Mark.12.16" osisID="Mark.12.16" n="16" />They brought it; and he said to them: Whose image and superscription is this? They said to him: Cæsar’s.
 <verse eID="Mark.12.16" />
@@ -4162,7 +4162,7 @@ And he went to the villages round about, and taught.
 <verse eID="Mark.14.3" />
 <verse sID="Mark.14.4" osisID="Mark.14.4" n="4" />And some of them were displeased within themselves, and said: For what purpose was this waste of the ointment?
 <verse eID="Mark.14.4" />
-<verse sID="Mark.14.5" osisID="Mark.14.5" n="5" />For this ointment could have been sold for more than three hundred denarii, and given to the poor. And they murmured against her.
+<verse sID="Mark.14.5" osisID="Mark.14.5" n="5" />For this ointment could have been sold for more than three hundred denarii<index index="Glossary" level1="DENARIUS" />, and given to the poor. And they murmured against her.
 </p>
 <p>
 <verse eID="Mark.14.5" />
@@ -5360,7 +5360,7 @@ And when he was now not far from the house, the centurion sent friends to him, a
 <verse eID="Luke.7.39" />
 <verse sID="Luke.7.40" osisID="Luke.7.40" n="40" />And Jesus answered and said to him: Simon, I have something to say to you. He replied: Teacher, say on.
 <verse eID="Luke.7.40" />
-<verse sID="Luke.7.41" osisID="Luke.7.41" n="41" />A certain creditor had two debtors; the one owed him five hundred denarii, the other, fifty.
+<verse sID="Luke.7.41" osisID="Luke.7.41" n="41" />A certain creditor had two debtors; the one owed him five hundred denarii<index index="Glossary" level1="DENARIUS" />, the other, fifty.
 <verse eID="Luke.7.41" />
 <verse sID="Luke.7.42" osisID="Luke.7.42" n="42" />But as they had nothing to pay, he forgave them both. Which of them, then, will love him the more?
 <verse eID="Luke.7.42" />
@@ -5762,7 +5762,7 @@ And while they were all wondering at every thing that Jesus did, he said to his 
 <verse eID="Luke.10.33" />
 <verse sID="Luke.10.34" osisID="Luke.10.34" n="34" />And he went to him, and bound up his wounds, pouring in oil and wine; and he put him on his own beast, and carried him to an inn, and took care of him.
 <verse eID="Luke.10.34" />
-<verse sID="Luke.10.35" osisID="Luke.10.35" n="35" />And on the morrow, when he departed, he took out two denarii, and gave them to the innkeeper, and said to him: Take care of him; and whatever you spend more, on my return, I will repay you.
+<verse sID="Luke.10.35" osisID="Luke.10.35" n="35" />And on the morrow, when he departed, he took out two denarii<index index="Glossary" level1="DENARIUS" />, and gave them to the innkeeper, and said to him: Take care of him; and whatever you spend more, on my return, I will repay you.
 </p>
 <p>
 <verse eID="Luke.10.35" />
@@ -6266,9 +6266,9 @@ Then the master of the house was angry, and said to his servant, Go out quickly 
 </p>
 <p>
 <verse eID="Luke.15.7" />
-<verse sID="Luke.15.8" osisID="Luke.15.8" n="8" />Or, what woman that has ten drachmas, if she lose one drachma, does not light a lamp, and sweep the house, and search carefully till she find it?
+<verse sID="Luke.15.8" osisID="Luke.15.8" n="8" />Or, what woman that has ten drachmas, if she lose one drachma<index index="Glossary" level1="DRACHMA" />, does not light a lamp, and sweep the house, and search carefully till she find it?
 <verse eID="Luke.15.8" />
-<verse sID="Luke.15.9" osisID="Luke.15.9" n="9" />And when she finds it, she calls together her friends and neighbors, saying, Rejoice with me, for I have found the drachma that I lost.
+<verse sID="Luke.15.9" osisID="Luke.15.9" n="9" />And when she finds it, she calls together her friends and neighbors, saying, Rejoice with me, for I have found the drachma<index index="Glossary" level1="DRACHMA" /> that I lost.
 <verse eID="Luke.15.9" />
 <verse sID="Luke.15.10" osisID="Luke.15.10" n="10" />So, I say to you, There is joy in the presence of the angels of God over one sinner that repents.
 </p>
@@ -6784,7 +6784,7 @@ And when they heard it, they said: Be it not so!
 <verse eID="Luke.20.22" />
 <verse sID="Luke.20.23" osisID="Luke.20.23" n="23" />But he perceived their cunning, and said to them: Why do you tempt me?
 <verse eID="Luke.20.23" />
-<verse sID="Luke.20.24" osisID="Luke.20.24" n="24" />Show me a denarius. Whose image and superscription has it? They answered and said: Cæsar’s.
+<verse sID="Luke.20.24" osisID="Luke.20.24" n="24" />Show me a denarius<index index="Glossary" level1="DENARIUS" />. Whose image and superscription has it? They answered and said: Cæsar’s.
 <verse eID="Luke.20.24" />
 <verse sID="Luke.20.25" osisID="Luke.20.25" n="25" />He said to them: Give, therefore, to Cæsar the things that are Cæsar s, and to God the things that are God s.
 <verse eID="Luke.20.25" />
@@ -15228,9 +15228,9 @@ The grace of our Lord Jesus Christ be with you.
 </p>
 <p>
 <verse eID="Gal.3.23" />
-<verse sID="Gal.3.24" osisID="Gal.3.24" n="24" />So, then, the law was our pedagogue that <transChange type="added">led us</transChange> to Christ, that we might be justified by faith.
+<verse sID="Gal.3.24" osisID="Gal.3.24" n="24" />So, then, the law was our pedagogue<index index="Glossary" level1="PEDAGOGUE" /> that <transChange type="added">led us</transChange> to Christ, that we might be justified by faith.
 <verse eID="Gal.3.24" />
-<verse sID="Gal.3.25" osisID="Gal.3.25" n="25" />But since the faith has come, we are no longer under a pedagogue:
+<verse sID="Gal.3.25" osisID="Gal.3.25" n="25" />But since the faith has come, we are no longer under a pedagogue<index index="Glossary" level1="PEDAGOGUE" />:
 <verse eID="Gal.3.25" />
 <verse sID="Gal.3.26" osisID="Gal.3.26" n="26" />for you are all the sons of God, by faith in Christ Jesus:
 <verse eID="Gal.3.26" />
@@ -19727,7 +19727,7 @@ Thou art worthy to take the book, and to open its seals: for thou wast slain, an
 <verse eID="Rev.6.4" />
 <verse sID="Rev.6.5" osisID="Rev.6.5" n="5" />And when he had opened the third seal, I heard the third living creature say, Come and see. And I saw, and behold, a black horse; and he that sat on him had a pair of scales in his hand.
 <verse eID="Rev.6.5" />
-<verse sID="Rev.6.6" osisID="Rev.6.6" n="6" />And I heard a voice in the midst of the four living creatures, saying: A chœnix of wheat for a denarius, and three chœnices of barley for a denarius; and as to the oil and the wine, see that you do no injustice.
+<verse sID="Rev.6.6" osisID="Rev.6.6" n="6" />And I heard a voice in the midst of the four living creatures, saying: A chœnix<index index="Glossary" level1="CHŒNIX" /> of wheat for a denarius<index index="Glossary" level1="DENARIUS" />, and three chœnices of barley for a denarius<index index="Glossary" level1="DENARIUS" />; and as to the oil and the wine, see that you do no injustice.
 </p>
 <p>
 <verse eID="Rev.6.6" />
