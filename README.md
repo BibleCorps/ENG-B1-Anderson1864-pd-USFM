@@ -18,7 +18,7 @@ The translator was **[Henry Tompkins Anderson](http://www.therestorationmovement
 
 ## Modern reprints
 ### University of Michigan (Michigan Historical Reprint Series)
-* A facsimile [reprint](https://www.amazon.co.uk/Testament-original-Greek-H-T-Anderson/dp/1418188247/) paper copy of Anderson's 1864 text “stereotyped and printed for the author” in 1866 by John P Morton & Co,, Louisville, KY.
+* A facsimile [reprint](https://www.amazon.co.uk/Testament-original-Greek-H-T-Anderson/dp/1418188247/) paper copy of Anderson's 1864 text “stereotyped and printed for the author” in 1866 by John P Morton & Co., Louisville, KY.
 * Though the reprint page size is 154mm x 234mm, the original was evidently a pocket edition with print area 67mm x 110mm, so there's a huge margin on every page.
 * DavidHaslam purchased this item on 15 Aug 2009.
 
