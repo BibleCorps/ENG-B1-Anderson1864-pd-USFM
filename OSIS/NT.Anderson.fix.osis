@@ -6,28 +6,28 @@
     <osisText osisIDWork="NT.Anderson" osisRefWork="Bible" xml:lang="en">
         <header>
             <revisionDesc resp="David">
-                <date>2019.03.14T13.22.03</date>
+                <date>2019.03.14T14.13.18</date>
                 <p>Converted from USFM source using u2o.py</p>
             </revisionDesc>
             <work osisWork="NT.Anderson">
                 <title>NT.Anderson</title>
                 <description type="usfm" subType="x-id">FRT ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-13</description>
+<description type="usfm" subType="x-rem">Version 2019-03-14</description>
 <description type="usfm" subType="x-rem">Title Page</description>
 <description type="usfm" subType="x-id">INT ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
 <description type="usfm" subType="x-rem">Version 20170711</description>
 <description type="usfm" subType="x-id">MAT ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-14</description>
+<description type="usfm" subType="x-rem">Version 2019-03-14</description>
 <description type="usfm" subType="x-rem">Mat 19:30 was not included in the 1866 printing. The text is part of verse 29.</description>
 <description type="usfm" subType="x-id">MRK ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-14</description>
+<description type="usfm" subType="x-rem">Version 2019-03-14</description>
 <description type="usfm" subType="x-id">LUK ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-14</description>
+<description type="usfm" subType="x-rem">Version 2019-03-14</description>
 <description type="usfm" subType="x-id">JHN ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
 <description type="usfm" subType="x-rem">Version 2019-02-14</description>
@@ -38,18 +38,18 @@
 <description type="usfm" subType="x-rem">Verse 35 was not included in the 1866 printing. The text is part of verse 34.</description>
 <description type="usfm" subType="x-id">ROM ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-13</description>
+<description type="usfm" subType="x-rem">Version 2019-03-14</description>
 <description type="usfm" subType="x-rem">The phrase "God’s plan of justifying men" is not found in the 1866 printing (Romans 1:17; 3:5,21; 10:3).</description>
 <description type="usfm" subType="x-id">1CO ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-13</description>
+<description type="usfm" subType="x-rem">Version 2019-03-14</description>
 <description type="usfm" subType="x-id">2CO ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-14</description>
+<description type="usfm" subType="x-rem">Version 2019-03-14</description>
 <description type="usfm" subType="x-rem">2Cor 13:14 was not included in the 1866 printing. The text is part of verse 13.</description>
 <description type="usfm" subType="x-id">GAL ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-14</description>
+<description type="usfm" subType="x-rem">Version 2019-03-14</description>
 <description type="usfm" subType="x-id">EPH ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
 <description type="usfm" subType="x-rem">Version 2019-02-03</description>
@@ -95,7 +95,7 @@
 <description type="usfm" subType="x-rem">Version 2019-02-01</description>
 <description type="usfm" subType="x-id">1JN ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-10</description>
+<description type="usfm" subType="x-rem">Version 2019-03-14</description>
 <description type="usfm" subType="x-rem">1Jn 5:21 was not included in the 1866 printing. The text is part of verse 20.</description>
 <description type="usfm" subType="x-id">2JN ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
@@ -109,7 +109,7 @@
 <description type="usfm" subType="x-rem">Jude 1:25 was not included in the 1866 printing. The text is part of verse 24.</description>
 <description type="usfm" subType="x-id">REV ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
-<description type="usfm" subType="x-rem">Version 2019-02-14</description>
+<description type="usfm" subType="x-rem">Version 2019-03-14</description>
 <description type="usfm" subType="x-rem">Rev 4:11 was not included in the 1866 printing. The text is part of verse 10.</description>
 <description type="usfm" subType="x-id">GLO ENG | Anderson New Testament 1864 Public Domain</description>
 <description type="usfm" subType="x-ide">UTF-8</description>
@@ -131,7 +131,7 @@
 <!-- periph --><title type="main">Publication Info</title>None
 <milestone type="x-usfm-h" n="Rights" />
 <p type="x-center">
-Entered according to Act of Congress, in the year 1864, by H. T. Anderson, In the Clerk's Office of the District Court of the United States for the Southern Distrcit of Ohio.
+Entered according to Act of Congress, in the year 1864, by H. T. Anderson, In the Clerk’s Office of the District Court of the United States for the Southern Distrcit of Ohio.
 </p>
 </div>
 <div>
@@ -2024,7 +2024,7 @@ The work has been carried on under many adverse circumstances; but, by the good 
 <verse eID="Matt.22.19" />
 <verse sID="Matt.22.20" osisID="Matt.22.20" n="20" />And he said to them: Whose image and superscription is this?
 <verse eID="Matt.22.20" />
-<verse sID="Matt.22.21" osisID="Matt.22.21" n="21" />They said to him: Cæsar’s. Then he said to them: Give, therefore, to Cæsar the things that are Cæsar s, and to God the things that are God s.
+<verse sID="Matt.22.21" osisID="Matt.22.21" n="21" />They said to him: Cæsar’s. Then he said to them: Give, therefore, to Cæsar the things that are Cæsar’s, and to God the things that are God’s.
 <verse eID="Matt.22.21" />
 <verse sID="Matt.22.22" osisID="Matt.22.22" n="22" />And when they heard it, they were astonished, and left him, and went away.
 </p>
@@ -3606,7 +3606,7 @@ And he went to the villages round about, and taught.
 <verse eID="Mark.8.33" />
 <verse sID="Mark.8.34" osisID="Mark.8.34" n="34" />And he called to him the multitude with his disciples, and said to them: Whoever determines to follow after me, let him deny himself, and take up his cross, and follow me.
 <verse eID="Mark.8.34" />
-<verse sID="Mark.8.35" osisID="Mark.8.35" n="35" />For whoever will save his life, shall lose it; but whoever will lose his life for my sake and the gospel s, shall save it.
+<verse sID="Mark.8.35" osisID="Mark.8.35" n="35" />For whoever will save his life, shall lose it; but whoever will lose his life for my sake and the gospel’s, shall save it.
 <verse eID="Mark.8.35" />
 <verse sID="Mark.8.36" osisID="Mark.8.36" n="36" />For what will it profit a man, if he gain the whole world, and lose his own life?
 <verse eID="Mark.8.36" />
@@ -3990,7 +3990,7 @@ And he went to the villages round about, and taught.
 <verse eID="Mark.12.15" />
 <verse sID="Mark.12.16" osisID="Mark.12.16" n="16" />They brought it; and he said to them: Whose image and superscription is this? They said to him: Cæsar’s.
 <verse eID="Mark.12.16" />
-<verse sID="Mark.12.17" osisID="Mark.12.17" n="17" />And Jesus answered and said to them: Give to Cæsar the things that are Cæsar s, and to God the things that are God s. And they were astonished at him.
+<verse sID="Mark.12.17" osisID="Mark.12.17" n="17" />And Jesus answered and said to them: Give to Cæsar the things that are Cæsar’s, and to God the things that are God’s. And they were astonished at him.
 </p>
 <p>
 <verse eID="Mark.12.17" />
@@ -5051,7 +5051,7 @@ Again, the chief priest asked him, and said to him: Are you the Christ, the Son 
 <verse eID="Luke.5.1" />
 <verse sID="Luke.5.2" osisID="Luke.5.2" n="2" />that he saw two ships standing by the lake: but the fishermen had gone out of them, and were washing their nets.
 <verse eID="Luke.5.2" />
-<verse sID="Luke.5.3" osisID="Luke.5.3" n="3" />And he entered one of the ships, which was Simon s, and requested him to push out a little from the land. And he sat down and taught the multitude from the ship.
+<verse sID="Luke.5.3" osisID="Luke.5.3" n="3" />And he entered one of the ships, which was Simon’s, and requested him to push out a little from the land. And he sat down and taught the multitude from the ship.
 </p>
 <p>
 <verse eID="Luke.5.3" />
@@ -6353,7 +6353,7 @@ Then the master of the house was angry, and said to his servant, Go out quickly 
 <verse eID="Luke.16.10" />
 <verse sID="Luke.16.11" osisID="Luke.16.11" n="11" />If, therefore, you have not been faithful in the unrighteous riches, who will intrust you with the true?
 <verse eID="Luke.16.11" />
-<verse sID="Luke.16.12" osisID="Luke.16.12" n="12" />And if you have not been faithful in that which is another s, who will give to you that which is your own?
+<verse sID="Luke.16.12" osisID="Luke.16.12" n="12" />And if you have not been faithful in that which is another’s, who will give to you that which is your own?
 <verse eID="Luke.16.12" />
 <verse sID="Luke.16.13" osisID="Luke.16.13" n="13" />No servant can serve two masters; for he will either hate the one, and love the other; or he will cleave to the one, and despise the other. You can not serve God and riches.
 </p>
@@ -6786,7 +6786,7 @@ And when they heard it, they said: Be it not so!
 <verse eID="Luke.20.23" />
 <verse sID="Luke.20.24" osisID="Luke.20.24" n="24" />Show me a denarius<index index="Glossary" level1="DENARIUS" />. Whose image and superscription has it? They answered and said: Cæsar’s.
 <verse eID="Luke.20.24" />
-<verse sID="Luke.20.25" osisID="Luke.20.25" n="25" />He said to them: Give, therefore, to Cæsar the things that are Cæsar s, and to God the things that are God s.
+<verse sID="Luke.20.25" osisID="Luke.20.25" n="25" />He said to them: Give, therefore, to Cæsar the things that are Cæsar’s, and to God the things that are God’s.
 <verse eID="Luke.20.25" />
 <verse sID="Luke.20.26" osisID="Luke.20.26" n="26" />And they were not able to take hold of his words before the people. And they were astonished at his answer, and were silent.
 </p>
@@ -12726,7 +12726,7 @@ The apostles, and the elders, and the brethren, to the brethren of the Gentiles 
 </div>
 <div type="section">
 <chapter sID="Rom.9" osisID="Rom.9" n="9" />
-<title><hi type="small-caps">Section Third. </hi><lb type="x-optional" /> <hi type="italic">God's dealings with Israel as a People.</hi></title>
+<title><hi type="small-caps">Section Third. </hi><lb type="x-optional" /> <hi type="italic">God’s dealings with Israel as a People.</hi></title>
 <!-- cl --><milestone type="x-chapterLabel" n="IX." />
 <p>
 <verse sID="Rom.9.1" osisID="Rom.9.1" n="1" />I speak the truth in Christ, I lie not, my conscience bearing me testimony in the Holy Spirit,
@@ -13064,7 +13064,7 @@ Be not wise in your own conceits;
 <verse eID="Rom.14.6" />
 <verse sID="Rom.14.7" osisID="Rom.14.7" n="7" />For no one lives to himself, and no one dies to himself.
 <verse eID="Rom.14.7" />
-<verse sID="Rom.14.8" osisID="Rom.14.8" n="8" />For if we live, we live to the Lord; or if we die, we die to the Lord. Whether, therefore, we live or die, we are the Lord s.
+<verse sID="Rom.14.8" osisID="Rom.14.8" n="8" />For if we live, we live to the Lord; or if we die, we die to the Lord. Whether, therefore, we live or die, we are the Lord’s.
 <verse eID="Rom.14.8" />
 <verse sID="Rom.14.9" osisID="Rom.14.9" n="9" />For this very purpose, Christ both died and rose, and lived again, that he might have dominion over the dead and the living.
 </p>
@@ -13446,7 +13446,7 @@ The grace of our Lord Jesus Christ be with you.
 <verse eID="1Cor.3.21" />
 <verse sID="1Cor.3.22" osisID="1Cor.3.22" n="22" />whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come, all are yours:
 <verse eID="1Cor.3.22" />
-<verse sID="1Cor.3.23" osisID="1Cor.3.23" n="23" />and you are Christ’s: and Christ is God s.
+<verse sID="1Cor.3.23" osisID="1Cor.3.23" n="23" />and you are Christ’s: and Christ is God’s.
 <verse eID="1Cor.3.23" />
 <chapter eID="1Cor.3" />
 </p>
@@ -13853,7 +13853,7 @@ The grace of our Lord Jesus Christ be with you.
 <verse eID="1Cor.10.24" />
 <verse sID="1Cor.10.25" osisID="1Cor.10.25" n="25" />Any thing that is sold in the market, eat, asking no questions on account of conscience:
 <verse eID="1Cor.10.25" />
-<verse sID="1Cor.10.26" osisID="1Cor.10.26" n="26" />for the earth and its fullness are the Lord s.
+<verse sID="1Cor.10.26" osisID="1Cor.10.26" n="26" />for the earth and its fullness are the Lord’s.
 </p>
 <p>
 <verse eID="1Cor.10.26" />
@@ -14841,7 +14841,7 @@ The grace of our Lord Jesus Christ be with you.
 </p>
 <p>
 <verse eID="2Cor.10.6" />
-<verse sID="2Cor.10.7" osisID="2Cor.10.7" n="7" />Do you look on things according to the outward appearance? If any one trusts in himself, that he is Christ s, let him again reason thus of himself: that as he is Christ s, so also are we.
+<verse sID="2Cor.10.7" osisID="2Cor.10.7" n="7" />Do you look on things according to the outward appearance? If any one trusts in himself, that he is Christ’s, let him again reason thus of himself: that as he is Christ’s, so also are we.
 <verse eID="2Cor.10.7" />
 <verse sID="2Cor.10.8" osisID="2Cor.10.8" n="8" />For though I should boast even, somewhat more abundantly of our authority, which the Lord has given us for edification, and not for your destruction, I would not be ashamed:
 <verse eID="2Cor.10.8" />
@@ -14930,7 +14930,7 @@ The grace of our Lord Jesus Christ be with you.
 <verse eID="2Cor.11.24" />
 <verse sID="2Cor.11.25" osisID="2Cor.11.25" n="25" />three times I was beaten with rods; once I was stoned; three times I have been shipwrecked; a night and a day I spent in the deep.
 <verse eID="2Cor.11.25" />
-<verse sID="2Cor.11.26" osisID="2Cor.11.26" n="26" />In journeying s often, in perils from rivers, in perils from robbers, in perils from my own race, in perils from the Gentiles, in perils in the city, in perils in the desert, in perils in the sea, in perils among false brethren;
+<verse sID="2Cor.11.26" osisID="2Cor.11.26" n="26" />In journeyings often, in perils from rivers, in perils from robbers, in perils from my own race, in perils from the Gentiles, in perils in the city, in perils in the desert, in perils in the sea, in perils among false brethren;
 <verse eID="2Cor.11.26" />
 <verse sID="2Cor.11.27" osisID="2Cor.11.27" n="27" />in weariness and in toil, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness:
 <verse eID="2Cor.11.27" />
@@ -15238,7 +15238,7 @@ The grace of our Lord Jesus Christ be with you.
 <verse eID="Gal.3.27" />
 <verse sID="Gal.3.28" osisID="Gal.3.28" n="28" />There is neither Jew nor Greek, there is neither bondman nor freeman, there is neither male nor female: for you are all one in Christ Jesus.
 <verse eID="Gal.3.28" />
-<verse sID="Gal.3.29" osisID="Gal.3.29" n="29" />And if you are Christ s, then you are Abraham’s posterity, and heirs according to the promise.
+<verse sID="Gal.3.29" osisID="Gal.3.29" n="29" />And if you are Christ’s, then you are Abraham’s posterity, and heirs according to the promise.
 <verse eID="Gal.3.29" />
 <chapter eID="Gal.3" />
 </p>
@@ -19154,7 +19154,7 @@ Grace be with you all. Amen.
 <verse eID="1John.3.10" />
 <verse sID="1John.3.11" osisID="1John.3.11" n="11" />For this is the message that you have heard from the beginning, that we should love one another.
 <verse eID="1John.3.11" />
-<verse sID="1John.3.12" osisID="1John.3.12" n="12" />Not as Cain, who was of the wicked one, and slew his brother: and for what reason did he slay him? because his own works were evil, and his brother s, righteous.
+<verse sID="1John.3.12" osisID="1John.3.12" n="12" />Not as Cain, who was of the wicked one, and slew his brother: and for what reason did he slay him? because his own works were evil, and his brother’s, righteous.
 <verse eID="1John.3.12" />
 <verse sID="1John.3.13" osisID="1John.3.13" n="13" />Wonder not, my brethren, if the world hates you.
 <verse eID="1John.3.13" />
@@ -19970,7 +19970,7 @@ Thou art worthy to take the book, and to open its seals: for thou wast slain, an
 <verse eID="Rev.11.13" />
 <verse sID="Rev.11.14" osisID="Rev.11.14" n="14" />The second woe is past: behold, the third woe comes quickly.
 <verse eID="Rev.11.14" />
-<verse sID="Rev.11.15" osisID="Rev.11.15" n="15" />And the seventh angel sounded; and there were great voices in heaven, saying: The kingdom of the world has become our Lord’s and his Christ s, and he shall reign from age to age.
+<verse sID="Rev.11.15" osisID="Rev.11.15" n="15" />And the seventh angel sounded; and there were great voices in heaven, saying: The kingdom of the world has become our Lord’s and his Christ’s, and he shall reign from age to age.
 </p>
 <p>
 <verse eID="Rev.11.15" />

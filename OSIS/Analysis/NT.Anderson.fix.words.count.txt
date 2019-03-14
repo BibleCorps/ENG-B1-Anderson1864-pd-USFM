@@ -3211,7 +3211,8 @@
 00002	Jotham
 00023	journey
 00003	journeyed
-00004	journeying
+00003	journeying
+00001	journeyings
 00067	joy
 00003	joyful
 00002	joyfully
@@ -5010,7 +5011,7 @@
 00001	rushing
 00004	rust
 00001	Ruth
-00179	s
+00178	s
 00002	sabachthani
 00025	sabbath
 00005	Sabbath
