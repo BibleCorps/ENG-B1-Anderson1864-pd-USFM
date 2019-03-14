@@ -6,7 +6,7 @@
     <osisText osisIDWork="NT.Anderson" osisRefWork="Bible" xml:lang="en">
         <header>
             <revisionDesc resp="David">
-                <date>2019.02.14T21.29.13</date>
+                <date>2019.03.14T13.22.03</date>
                 <p>Converted from USFM source using u2o.py</p>
             </revisionDesc>
             <work osisWork="NT.Anderson">
@@ -116,7 +116,7 @@
 <description type="usfm" subType="x-rem">Version 2019-02-01</description>
 <description type="usfm" subType="x-rem">Word List</description>
                 <type type="OSIS">Bible</type>
-                <identifier type="OSIS">Bible.und.NT.Anderson</identifier>
+                <identifier type="OSIS">Bible.en.NT.Anderson</identifier>
                 <refSystem>Bible</refSystem>
             </work>
         </header>
@@ -9374,7 +9374,7 @@ And when he had said this, he again came out to the Jews, and said to them: I fi
 </p>
 <p>
 <verse eID="John.19.18" />
-<verse sID="John.19.19" osisID="John.19.19" n="19" />And Pilate wrote a superscription, and put it on the cross; and the writing was, JESUS THE NAZABENE, THE KING OF THE JEWS.
+<verse sID="John.19.19" osisID="John.19.19" n="19" />And Pilate wrote a superscription, and put it on the cross; and the writing was, JESUS THE NAZARENE, THE KING OF THE JEWS.
 <verse eID="John.19.19" />
 <verse sID="John.19.20" osisID="John.19.20" n="20" />Therefore many of the Jews read this superscription, because the place where Jesus was crucified was near the city. And it was written in Hebrew and in Greek and in Latin.
 <verse eID="John.19.20" />
@@ -12719,7 +12719,7 @@ The apostles, and the elders, and the brethren, to the brethren of the Gentiles 
 <verse eID="Rom.8.37" />
 <verse sID="Rom.8.38" osisID="Rom.8.38" n="38" />For I am persuaded that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,
 <verse eID="Rom.8.38" />
-<verse sID="Rom.8.39" osisID="Rom.8.39" n="39" />nor hight, nor depth, nor any other creature, will be able to separate us from the love of God which is in Christ Jesus our Lord. SECTION THIRD. God’s Dealings with Israel as a People,
+<verse sID="Rom.8.39" osisID="Rom.8.39" n="39" />nor hight, nor depth, nor any other creature, will be able to separate us from the love of God which is in Christ Jesus our Lord.
 <verse eID="Rom.8.39" />
 <chapter eID="Rom.8" />
 </p>
@@ -14323,7 +14323,7 @@ The grace of our Lord Jesus Christ be with you.
 <verse eID="1Cor.16.5" />
 <verse sID="1Cor.16.6" osisID="1Cor.16.6" n="6" />and perhaps I may abide with you, or even spend the winter, that you may conduct me on my way to whatever place I may go.
 <verse eID="1Cor.16.6" />
-<verse sID="1Cor.16.7" osisID="1Cor.16.7" n="7" />FOE I do not wish to see you now in passing; for I hope to spend some time with you, if the Lord permit.
+<verse sID="1Cor.16.7" osisID="1Cor.16.7" n="7" />For I do not wish to see you now in passing; for I hope to spend some time with you, if the Lord permit.
 <verse eID="1Cor.16.7" />
 <verse sID="1Cor.16.8" osisID="1Cor.16.8" n="8" />But I will continue in Ephesus till Pentecost:
 <verse eID="1Cor.16.8" />
@@ -18580,7 +18580,7 @@ Grace be with you all. Amen.
 <milestone type="x-usfm-toc1" n="I Peter" />
 <!-- mt1 --><title level="1" type="main">First Letter of Peter.</title>
 <chapter sID="1Pet.1" osisID="1Pet.1" n="1" />
-<!-- cl --><milestone type="x-chapterLabel" n="I" />
+<!-- cl --><milestone type="x-chapterLabel" n="I." />
 <p>
 <verse sID="1Pet.1.1" osisID="1Pet.1.1" n="1" />Peter, an apostle of Jesus Christ, to the sojourners that are dispersed through Pontus, Galatia, Cappadocia, Asia, and Bithynia,
 <verse eID="1Pet.1.1" />

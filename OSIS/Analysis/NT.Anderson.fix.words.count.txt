@@ -7,7 +7,7 @@
 00001	60
 00001	7
 00001	8
-01945	a
+01944	a
 00048	A
 00002	Æneas
 00001	Ænon
@@ -386,7 +386,7 @@
 00001	artist
 00002	artists
 00001	arts
-00971	as
+00970	as
 00037	As
 00002	Asa
 00002	ascend
@@ -1437,7 +1437,6 @@
 00006	deaf
 00001	dealing
 00001	dealings
-00001	Dealings
 00001	deals
 00002	dealt
 00004	dear
@@ -2318,7 +2317,6 @@
 00001	foam
 00002	foaming
 00001	foams
-00001	FOE
 00001	foil
 00002	fold
 00001	folded
@@ -2342,7 +2340,7 @@
 00001	footsteps
 00009	footstool
 01801	for
-00698	For
+00699	For
 00003	forbade
 00001	forbear
 00003	forbearance
@@ -2569,7 +2567,7 @@
 00001	goat-skins
 00006	goats
 00003	god
-01334	God
+01333	God
 00001	GOD
 00002	goddess
 00002	Godhood
@@ -3140,7 +3138,7 @@
 00022	Isaiah
 00011	Iscariot
 00010	island
-00076	Israel
+00075	Israel
 00002	Israelite
 00002	Israelites
 00001	Issachar
@@ -3891,8 +3889,8 @@
 00001	naturally
 00010	nature
 00001	naught
-00001	NAZABENE
 00017	Nazarene
+00001	NAZARENE
 00001	Nazarenes
 00012	Nazareth
 00001	Neapolis
@@ -4241,7 +4239,7 @@
 00001	pen
 00003	Pentecost
 00152	people
-00002	People
+00001	People
 00005	peoples
 00014	perceive
 00011	perceived
@@ -5012,7 +5010,7 @@
 00001	rushing
 00004	rust
 00001	Ruth
-00180	s
+00179	s
 00002	sabachthani
 00025	sabbath
 00005	Sabbath
@@ -5169,7 +5167,6 @@
 00006	sect
 00001	sectary
 00003	Section
-00001	SECTION
 00003	sects
 00001	Secundus
 00002	secure
@@ -5934,7 +5931,6 @@
 00008	thinks
 00061	third
 00002	Third
-00001	THIRD
 00001	thirdly
 00010	thirst
 00001	thirsts
@@ -6554,7 +6550,7 @@
 00015	wished
 00001	wishes
 00007	wishing
-01407	with
+01406	with
 00010	With
 00005	withdraw
 00001	withdrawing
